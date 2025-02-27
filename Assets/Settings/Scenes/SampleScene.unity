@@ -248,6 +248,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DungeonData: {fileID: 11400000, guid: c0fb8e8dd65056647949b233a1e88ca5, type: 2}
+  EntitiesData: {fileID: 11400000, guid: ff4384d790b0b0c4d994bd2dfd9bcee2, type: 2}
 --- !u!1 &746939907
 GameObject:
   m_ObjectHideFlags: 0
@@ -462,6 +463,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1023473813}
+  - component: {fileID: 1023473824}
   - component: {fileID: 1023473821}
   - component: {fileID: 1023473822}
   - component: {fileID: 1023473823}
@@ -592,7 +594,7 @@ MonoBehaviour:
   damage: 10
   critChance: 3
   critDamage: 0.25
-  attacksPerSecond: 0
+  attackCooldown: 0
 --- !u!114 &1023473823
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -605,7 +607,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 035ed4cadb54b4d469707e0dcb4f369d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 2.5
+  baseSpeed: 2.5
+--- !u!114 &1023473824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1023473811}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70980f4e1c6ceb64fb71b5dd28e5387d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1965197212
 GameObject:
   m_ObjectHideFlags: 0

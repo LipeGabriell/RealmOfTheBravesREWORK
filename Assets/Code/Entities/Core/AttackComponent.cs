@@ -1,29 +1,28 @@
+using System.Threading;
 using System.Collections;
 using UnityEngine;
 
 public class AttackComponent : MonoBehaviour
 {
+    private float attackTimer = 0;
     [SerializeField] protected int damage;
     [SerializeField] protected int critChance;
     [SerializeField] protected float critDamage;
-    [SerializeField] protected float attacksPerSecond;
-    private bool canAttack = false;
+    [SerializeField] protected float attackCooldown;
+    private bool canAttack = true;
     public int Damage => Random.Range(0, 101) > critChance ? damage : damage + Mathf.CeilToInt(damage * critDamage);
-    void Awake()
+    private void Update()
     {
-        StartCoroutine(AttackCooldown());
+        if (canAttack) return;
+        attackTimer += Time.deltaTime;
+        if (attackTimer >= attackCooldown) canAttack = true;
     }
 
     public virtual void Attack()
     {
-        StartCoroutine(AttackCooldown());
+        canAttack = false;
     }
 
-    private IEnumerator AttackCooldown()
-    {
-        canAttack = false;
-        yield return new WaitForSeconds(60 / attacksPerSecond / 60);
-        canAttack = true;
-    }
+
 
 }

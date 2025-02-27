@@ -14,7 +14,7 @@ public class SlimeAttack : AttackComponent
         if (collision.gameObject.CompareTag("Player"))
         {
             Debug.Log("Attacking", gameObject);
-            TargetHealth = collision.gameObject.GetComponent<HealthComponent>();
+            if (TargetHealth == null) TargetHealth = collision.gameObject.GetComponent<HealthComponent>();
             Attack();
         }
     }
