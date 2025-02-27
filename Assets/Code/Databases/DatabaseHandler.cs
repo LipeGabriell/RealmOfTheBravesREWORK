@@ -4,7 +4,7 @@ public class DatabaseHandler : MonoBehaviour
 {
     public static DatabaseHandler Instance { get; private set; }
     [field: SerializeField] public DungeonData DungeonData;
-    // [field: SerializeField] public EntitiesData EntitiesData;
+    [field: SerializeField] public EntitiesData EntitiesData;
 
     void Awake()
     {
@@ -18,7 +18,7 @@ public class DatabaseHandler : MonoBehaviour
 
 #if UNITY_EDITOR
         DungeonData.UpdateDatabase();
-        // EntitiesData.UpdateDatabase();
+        EntitiesData.UpdateDatabase();
 #endif
 
     }

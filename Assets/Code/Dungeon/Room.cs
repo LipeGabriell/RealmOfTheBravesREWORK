@@ -73,22 +73,29 @@ public class Room : MonoBehaviour
 
     public IEnumerator SpawnEnemies()
     {
-        yield break;
-        // var availableEnemies = DatabaseHandler.Instance.EntitiesData.GetEntityByType(EnemiesType).Where(Entity => Entity.CostValue >= MinEnemyCost && Entity.CostValue <= MaxEnemyCost).ToList();
+        var availableEnemies = DatabaseHandler.Instance.EntitiesData.GetEntityByType(EnemiesType).Where(Entity => Entity.CostValue >= MinEnemyCost && Entity.CostValue <= MaxEnemyCost).ToList();
 
-        // do
-        // {
-        //     var selectedEnemy = availableEnemies.GetRandomElement();
+        do
+        {
+            var selectedEnemy = availableEnemies.GetRandomElement();
 
-        //     if (RoomEnemiesCost - selectedEnemy.CostValue < 0) continue;
+            if (RoomEnemiesCost - selectedEnemy.CostValue < 0) continue;
 
-        //     var enemy = Instantiate(selectedEnemy, transform.position, Quaternion.identity, transform);
-        //     var enemyHealth = enemy.GetComponent<CoreHealth>();
+            var enemy = Instantiate(selectedEnemy, transform.position, Quaternion.identity, transform);
 
-        //     RoomEnemiesCost -= selectedEnemy.CostValue;
+            RoomEnemiesCost -= enemy.CostValue;
 
-        //     yield return null;
-        // } while (RoomEnemiesCost > 0);
+            OnPlayerEnter.AddListener((player) =>
+            {
+                if (enemy)
+                {
+                    enemy.Target = player;
+                }
+            });
+
+
+            yield return null;
+        } while (RoomEnemiesCost > 0);
     }
 
     public void SpawnBoss()

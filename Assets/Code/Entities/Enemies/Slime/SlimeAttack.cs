@@ -1,21 +1,19 @@
 using UnityEngine;
 
-public class SlimeAttack : AttackComponent
+public class SlimeAttack : EnemyAttack
 {
-    private HealthComponent TargetHealth;
-    public override void Attack()
+    public override void Attack(HealthComponent target)
     {
         var withCrit = Random.Range(1, 101) < critChance;
-        TargetHealth.TakeDamage(!withCrit ? damage : damage + Mathf.CeilToInt(damage * critChance));
-        TargetHealth = null;
+        target.TakeDamage(!withCrit ? damage : damage + Mathf.CeilToInt(damage * critChance));
     }
     void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
         {
             Debug.Log("Attacking", gameObject);
-            TargetHealth = collision.gameObject.GetComponent<HealthComponent>();
-            Attack();
+            TargetHealth ??= self.Target.GetComponent<HealthComponent>();
+            Attack(TargetHealth);
         }
     }
 }
