@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 3ec1e97d96fb6534eb4929d393693a7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6075630856525972450
+    second: MiniMutantSlimeLB_0
+  - first:
+      213: -8927534909819165402
+    second: MiniMutantSlimeLB_1
+  - first:
+      213: 2104617563111219989
+    second: MiniMutantSlimeLB_2
+  - first:
+      213: 1656376274739506814
+    second: MiniMutantSlimeLB_3
+  - first:
+      213: 7701427881725524391
+    second: MiniMutantSlimeLB_4
+  - first:
+      213: -6972049532413344658
+    second: MiniMutantSlimeLB_5
+  - first:
+      213: -1551665950192952445
+    second: MiniMutantSlimeLB_6
+  - first:
+      213: -4774419841788690301
+    second: MiniMutantSlimeLB_7
+  - first:
+      213: 98933993117384392
+    second: MiniMutantSlimeLB_8
+  - first:
+      213: -561623133804687426
+    second: MiniMutantSlimeLB_9
+  - first:
+      213: 7871548227424131176
+    second: MiniMutantSlimeLB_10
+  - first:
+      213: -4649066009354766196
+    second: MiniMutantSlimeLB_11
+  - first:
+      213: -6689522729444677905
+    second: MiniMutantSlimeLB_12
+  - first:
+      213: -931763785872437576
+    second: MiniMutantSlimeLB_13
+  - first:
+      213: -5340894469519137626
+    second: MiniMutantSlimeLB_14
+  - first:
+      213: 819254011874398101
+    second: MiniMutantSlimeLB_15
+  - first:
+      213: -5367794656478651417
+    second: MiniMutantSlimeLB_16
+  - first:
+      213: 5294291166088306644
+    second: MiniMutantSlimeLB_17
+  - first:
+      213: 3608706993227903738
+    second: MiniMutantSlimeLB_18
+  - first:
+      213: 197958462520414466
+    second: MiniMutantSlimeLB_19
+  - first:
+      213: 4509673996269009061
+    second: MiniMutantSlimeLB_20
+  - first:
+      213: -5422214400598571759
+    second: MiniMutantSlimeLB_21
+  - first:
+      213: 2104528245811002655
+    second: MiniMutantSlimeLB_22
+  - first:
+      213: -2851301583807867872
+    second: MiniMutantSlimeLB_23
+  - first:
+      213: 700000196247647396
+    second: MiniMutantSlimeLB_24
+  - first:
+      213: 5795617748546234618
+    second: MiniMutantSlimeLB_25
+  - first:
+      213: 5158761931585535511
+    second: MiniMutantSlimeLB_26
+  - first:
+      213: 6491729223707781449
+    second: MiniMutantSlimeLB_27
+  - first:
+      213: 8630260021727635408
+    second: MiniMutantSlimeLB_28
+  - first:
+      213: 6973594462607886228
+    second: MiniMutantSlimeLB_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 192
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cfd521de50faba0800000000000000
+      internalID: -6075630856525972450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 192
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6256454bc460b1480800000000000000
+      internalID: -8927534909819165402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 192
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513ea4dd58a153d10800000000000000
+      internalID: 2104617563111219989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 192
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7eab3e2271acf610800000000000000
+      internalID: 1656376274739506814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9f981cad7f0ea60800000000000000
+      internalID: 7701427881725524391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 160
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e640318c3ed4e3f90800000000000000
+      internalID: -6972049532413344658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 160
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b1ea41a00677ae0800000000000000
+      internalID: -1551665950192952445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 160
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380cb99237addbdb0800000000000000
+      internalID: -4774419841788690301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 128
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cef8fb41fb7f5100800000000000000
+      internalID: 98933993117384392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 129
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf0ee34cb6b438f0800000000000000
+      internalID: -561623133804687426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 130
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86898f7586b5d3d60800000000000000
+      internalID: 7871548227424131176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 130
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88f017a8133b7fb0800000000000000
+      internalID: -4649066009354766196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 128
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe66c8a258a0a23a0800000000000000
+      internalID: -6689522729444677905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 96
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be008006c5b113f0800000000000000
+      internalID: -931763785872437576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 96
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4a679f6c451e5b0800000000000000
+      internalID: -5340894469519137626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f4696ee239e5b00800000000000000
+      internalID: 819254011874398101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb99512333c185b0800000000000000
+      internalID: -5367794656478651417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 96
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df9e24e3c9197940800000000000000
+      internalID: 5294291166088306644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 96
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af231ddf3e3b41230800000000000000
+      internalID: 3608706993227903738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 64
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201dfce3c2a4fb200800000000000000
+      internalID: 197958462520414466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_20
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 64
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a83e683b94959e30800000000000000
+      internalID: 4509673996269009061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 64
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11580541bbc60c4b0800000000000000
+      internalID: -5422214400598571759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 64
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d375f0a49c43d10800000000000000
+      internalID: 2104528245811002655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 64
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0249f9df0542e68d0800000000000000
+      internalID: -2851301583807867872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 32
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a47b004876e6b900800000000000000
+      internalID: 700000196247647396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 32
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af82c04c2ab2e6050800000000000000
+      internalID: 5795617748546234618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eb6fcf4aa979740800000000000000
+      internalID: 5158761931585535511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949ef159551471a50800000000000000
+      internalID: 6491729223707781449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7a452c3c7d4c770800000000000000
+      internalID: 8630260021727635408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniMutantSlimeLB_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497cf5f473f27c060800000000000000
+      internalID: 6973594462607886228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MiniMutantSlimeLB_0: -6075630856525972450
+      MiniMutantSlimeLB_1: -8927534909819165402
+      MiniMutantSlimeLB_10: 7871548227424131176
+      MiniMutantSlimeLB_11: -4649066009354766196
+      MiniMutantSlimeLB_12: -6689522729444677905
+      MiniMutantSlimeLB_13: -931763785872437576
+      MiniMutantSlimeLB_14: -5340894469519137626
+      MiniMutantSlimeLB_15: 819254011874398101
+      MiniMutantSlimeLB_16: -5367794656478651417
+      MiniMutantSlimeLB_17: 5294291166088306644
+      MiniMutantSlimeLB_18: 3608706993227903738
+      MiniMutantSlimeLB_19: 197958462520414466
+      MiniMutantSlimeLB_2: 2104617563111219989
+      MiniMutantSlimeLB_20: 4509673996269009061
+      MiniMutantSlimeLB_21: -5422214400598571759
+      MiniMutantSlimeLB_22: 2104528245811002655
+      MiniMutantSlimeLB_23: -2851301583807867872
+      MiniMutantSlimeLB_24: 700000196247647396
+      MiniMutantSlimeLB_25: 5795617748546234618
+      MiniMutantSlimeLB_26: 5158761931585535511
+      MiniMutantSlimeLB_27: 6491729223707781449
+      MiniMutantSlimeLB_28: 8630260021727635408
+      MiniMutantSlimeLB_29: 6973594462607886228
+      MiniMutantSlimeLB_3: 1656376274739506814
+      MiniMutantSlimeLB_4: 7701427881725524391
+      MiniMutantSlimeLB_5: -6972049532413344658
+      MiniMutantSlimeLB_6: -1551665950192952445
+      MiniMutantSlimeLB_7: -4774419841788690301
+      MiniMutantSlimeLB_8: 98933993117384392
+      MiniMutantSlimeLB_9: -561623133804687426
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

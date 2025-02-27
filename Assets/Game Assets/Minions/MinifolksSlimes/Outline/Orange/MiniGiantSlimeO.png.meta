@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: ec10db8adb0e9024ca3d4a656ad99481
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1331312433215823222
+    second: MiniGiantSlimeO_0
+  - first:
+      213: 7877901626500895228
+    second: MiniGiantSlimeO_1
+  - first:
+      213: 7010475020280379572
+    second: MiniGiantSlimeO_2
+  - first:
+      213: 4987488988509598434
+    second: MiniGiantSlimeO_3
+  - first:
+      213: 1360870532859627579
+    second: MiniGiantSlimeO_4
+  - first:
+      213: -9207806392852161268
+    second: MiniGiantSlimeO_5
+  - first:
+      213: 1531277028361988264
+    second: MiniGiantSlimeO_6
+  - first:
+      213: 5762825215017210030
+    second: MiniGiantSlimeO_7
+  - first:
+      213: 7375668177769371597
+    second: MiniGiantSlimeO_8
+  - first:
+      213: -6413421505248471849
+    second: MiniGiantSlimeO_9
+  - first:
+      213: -1578888157508085036
+    second: MiniGiantSlimeO_10
+  - first:
+      213: -6142687238559522876
+    second: MiniGiantSlimeO_11
+  - first:
+      213: -4718791986001932067
+    second: MiniGiantSlimeO_12
+  - first:
+      213: -3129343675621086439
+    second: MiniGiantSlimeO_13
+  - first:
+      213: 3410315134602810654
+    second: MiniGiantSlimeO_14
+  - first:
+      213: 4863667139262408150
+    second: MiniGiantSlimeO_15
+  - first:
+      213: 1291629877121857537
+    second: MiniGiantSlimeO_16
+  - first:
+      213: -7921572421394793729
+    second: MiniGiantSlimeO_17
+  - first:
+      213: -2780797178898202080
+    second: MiniGiantSlimeO_18
+  - first:
+      213: 2584003148221541581
+    second: MiniGiantSlimeO_19
+  - first:
+      213: 1911225689913920964
+    second: MiniGiantSlimeO_20
+  - first:
+      213: -6829876039911720783
+    second: MiniGiantSlimeO_21
+  - first:
+      213: 2981157749945069248
+    second: MiniGiantSlimeO_22
+  - first:
+      213: 3546922198071064765
+    second: MiniGiantSlimeO_23
+  - first:
+      213: 5434361860903131668
+    second: MiniGiantSlimeO_24
+  - first:
+      213: -4665778066645038614
+    second: MiniGiantSlimeO_25
+  - first:
+      213: 7920485799989403538
+    second: MiniGiantSlimeO_26
+  - first:
+      213: -8368655255247383001
+    second: MiniGiantSlimeO_27
+  - first:
+      213: -4131404431486448799
+    second: MiniGiantSlimeO_28
+  - first:
+      213: -7850490714124760580
+    second: MiniGiantSlimeO_29
+  - first:
+      213: -7451739927621108999
+    second: MiniGiantSlimeO_30
+  - first:
+      213: -3007410521010346395
+    second: MiniGiantSlimeO_31
+  - first:
+      213: -6016576058908100997
+    second: MiniGiantSlimeO_32
+  - first:
+      213: -1919402156087490741
+    second: MiniGiantSlimeO_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 200
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dd3eaba95c97210800000000000000
+      internalID: 1331312433215823222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 200
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1de075acde35d60800000000000000
+      internalID: 7877901626500895228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 200
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8bf8a43e53a4160800000000000000
+      internalID: 7010475020280379572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 200
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e279496fce173540800000000000000
+      internalID: 4987488988509598434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 160
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3805681a88c2e210800000000000000
+      internalID: 1360870532859627579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 160
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dd979eedc473080800000000000000
+      internalID: -9207806392852161268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 163
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a86b302850304510800000000000000
+      internalID: 1531277028361988264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 160
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0d3c3100ba9ff40800000000000000
+      internalID: 5762825215017210030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 160
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc798153123ab5660800000000000000
+      internalID: 7375668177769371597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 120
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d450d8ee13fef6a0800000000000000
+      internalID: -6413421505248471849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dad8a70699a61ae0800000000000000
+      internalID: -1578888157508085036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 120
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf955b708ac0caa0800000000000000
+      internalID: -6142687238559522876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd01561a0bb738eb0800000000000000
+      internalID: -4718791986001932067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b6d7ac1865294d0800000000000000
+      internalID: -3129343675621086439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 120
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15932adb8fd35f20800000000000000
+      internalID: 3410315134602810654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 120
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5e97d8e773f7340800000000000000
+      internalID: 4863667139262408150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_16
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 120
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1083127a78acce110800000000000000
+      internalID: 1291629877121857537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 120
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa7b306adbe01290800000000000000
+      internalID: -7921572421394793729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 80
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0224d57f2bf9869d0800000000000000
+      internalID: -2780797178898202080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 80
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc6c343c293cd320800000000000000
+      internalID: 2584003148221541581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 40
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd8bec83a9068a10800000000000000
+      internalID: 1911225689913920964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 44
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b83c1d8de76731a0800000000000000
+      internalID: -6829876039911720783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 45
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cee0e0cd233f5920800000000000000
+      internalID: 2981157749945069248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_23
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 45
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db839fd52f2393130800000000000000
+      internalID: 3546922198071064765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 42
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41adf0ce15bba6b40800000000000000
+      internalID: 5434361860903131668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 42
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae940d89193df3fb0800000000000000
+      internalID: -4665778066645038614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_26
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 40
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fd4ecded73bed60800000000000000
+      internalID: 7920485799989403538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_27
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 40
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726164762609cdb80800000000000000
+      internalID: -8368655255247383001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_28
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 40
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b86c50f8d4aa6c0800000000000000
+      internalID: -4131404431486448799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_29
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 40
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf947180a447d0390800000000000000
+      internalID: -7850490714124760580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa7c8f440a169890800000000000000
+      internalID: -7451739927621108999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566e769a0188346d0800000000000000
+      internalID: -3007410521010346395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76b9ac93f3d08ca0800000000000000
+      internalID: -6016576058908100997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGiantSlimeO_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 162
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47494198e9ec55e0800000000000000
+      internalID: -1919402156087490741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MiniGiantSlimeO_0: 1331312433215823222
+      MiniGiantSlimeO_1: 7877901626500895228
+      MiniGiantSlimeO_10: -1578888157508085036
+      MiniGiantSlimeO_11: -6142687238559522876
+      MiniGiantSlimeO_12: -4718791986001932067
+      MiniGiantSlimeO_13: -3129343675621086439
+      MiniGiantSlimeO_14: 3410315134602810654
+      MiniGiantSlimeO_15: 4863667139262408150
+      MiniGiantSlimeO_16: 1291629877121857537
+      MiniGiantSlimeO_17: -7921572421394793729
+      MiniGiantSlimeO_18: -2780797178898202080
+      MiniGiantSlimeO_19: 2584003148221541581
+      MiniGiantSlimeO_2: 7010475020280379572
+      MiniGiantSlimeO_20: 1911225689913920964
+      MiniGiantSlimeO_21: -6829876039911720783
+      MiniGiantSlimeO_22: 2981157749945069248
+      MiniGiantSlimeO_23: 3546922198071064765
+      MiniGiantSlimeO_24: 5434361860903131668
+      MiniGiantSlimeO_25: -4665778066645038614
+      MiniGiantSlimeO_26: 7920485799989403538
+      MiniGiantSlimeO_27: -8368655255247383001
+      MiniGiantSlimeO_28: -4131404431486448799
+      MiniGiantSlimeO_29: -7850490714124760580
+      MiniGiantSlimeO_3: 4987488988509598434
+      MiniGiantSlimeO_30: -7451739927621108999
+      MiniGiantSlimeO_31: -3007410521010346395
+      MiniGiantSlimeO_32: -6016576058908100997
+      MiniGiantSlimeO_33: -1919402156087490741
+      MiniGiantSlimeO_4: 1360870532859627579
+      MiniGiantSlimeO_5: -9207806392852161268
+      MiniGiantSlimeO_6: 1531277028361988264
+      MiniGiantSlimeO_7: 5762825215017210030
+      MiniGiantSlimeO_8: 7375668177769371597
+      MiniGiantSlimeO_9: -6413421505248471849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

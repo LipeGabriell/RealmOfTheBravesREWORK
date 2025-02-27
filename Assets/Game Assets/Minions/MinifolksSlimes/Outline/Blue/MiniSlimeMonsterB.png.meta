@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 717c75912d94a264896ad2310c1ba962
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 466844018830432599
+    second: MiniSlimeMonsterB_0
+  - first:
+      213: -3590917028673495670
+    second: MiniSlimeMonsterB_1
+  - first:
+      213: -4901286166694131585
+    second: MiniSlimeMonsterB_2
+  - first:
+      213: 3330723219278740853
+    second: MiniSlimeMonsterB_3
+  - first:
+      213: 8910734319341890071
+    second: MiniSlimeMonsterB_4
+  - first:
+      213: 4595725513635864263
+    second: MiniSlimeMonsterB_5
+  - first:
+      213: 5621287790206038549
+    second: MiniSlimeMonsterB_6
+  - first:
+      213: -6977418616582210936
+    second: MiniSlimeMonsterB_7
+  - first:
+      213: 7646412445147657015
+    second: MiniSlimeMonsterB_8
+  - first:
+      213: 7469374269272174768
+    second: MiniSlimeMonsterB_9
+  - first:
+      213: -7158967460442176311
+    second: MiniSlimeMonsterB_10
+  - first:
+      213: 6454887830227219143
+    second: MiniSlimeMonsterB_11
+  - first:
+      213: 8109615577704913636
+    second: MiniSlimeMonsterB_12
+  - first:
+      213: -4160400506680082833
+    second: MiniSlimeMonsterB_13
+  - first:
+      213: 4726455330387520675
+    second: MiniSlimeMonsterB_14
+  - first:
+      213: -1878205388763689347
+    second: MiniSlimeMonsterB_15
+  - first:
+      213: -8190356268499863890
+    second: MiniSlimeMonsterB_16
+  - first:
+      213: -1182750573815035755
+    second: MiniSlimeMonsterB_17
+  - first:
+      213: -878287187765243041
+    second: MiniSlimeMonsterB_18
+  - first:
+      213: -8152001164590475551
+    second: MiniSlimeMonsterB_19
+  - first:
+      213: 8228259547042190157
+    second: MiniSlimeMonsterB_20
+  - first:
+      213: 818430940700430031
+    second: MiniSlimeMonsterB_21
+  - first:
+      213: -5772655897375877647
+    second: MiniSlimeMonsterB_22
+  - first:
+      213: -1356097413164482215
+    second: MiniSlimeMonsterB_23
+  - first:
+      213: -6715213782722350787
+    second: MiniSlimeMonsterB_24
+  - first:
+      213: 1092062379351771612
+    second: MiniSlimeMonsterB_25
+  - first:
+      213: -8387966576407474155
+    second: MiniSlimeMonsterB_26
+  - first:
+      213: -2826852208192637125
+    second: MiniSlimeMonsterB_27
+  - first:
+      213: 2039341549291009183
+    second: MiniSlimeMonsterB_28
+  - first:
+      213: 2653843497446915276
+    second: MiniSlimeMonsterB_29
+  - first:
+      213: -230536091287656890
+    second: MiniSlimeMonsterB_30
+  - first:
+      213: -3803013024153330726
+    second: MiniSlimeMonsterB_31
+  - first:
+      213: 7614906440570647413
+    second: MiniSlimeMonsterB_32
+  - first:
+      213: 2243968297781222713
+    second: MiniSlimeMonsterB_33
+  - first:
+      213: -6752909724752001137
+    second: MiniSlimeMonsterB_34
+  - first:
+      213: 3289917768110934955
+    second: MiniSlimeMonsterB_35
+  - first:
+      213: -8174554747161855060
+    second: MiniSlimeMonsterB_36
+  - first:
+      213: -3044026073795944940
+    second: MiniSlimeMonsterB_37
+  - first:
+      213: -3673379116411379983
+    second: MiniSlimeMonsterB_38
+  - first:
+      213: -1679029687457139262
+    second: MiniSlimeMonsterB_39
+  - first:
+      213: -7410327818406651291
+    second: MiniSlimeMonsterB_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 240
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75957e369209a7600800000000000000
+      internalID: 466844018830432599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 240
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dd308ecff7a2ec0800000000000000
+      internalID: -3590917028673495670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 240
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7809a313322bfbb0800000000000000
+      internalID: -4901286166694131585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 240
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d314afe1b193e20800000000000000
+      internalID: 3330723219278740853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 200
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a614007a949ab70800000000000000
+      internalID: 8910734319341890071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 200
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce1775610c47cf30800000000000000
+      internalID: 4595725513635864263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 200
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512b87b5673d20e40800000000000000
+      internalID: 5621287790206038549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 200
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a7b657cba3b2f90800000000000000
+      internalID: -6977418616582210936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 200
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733f62f3b938d1a60800000000000000
+      internalID: 7646412445147657015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 200
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0396ec25c88a760800000000000000
+      internalID: 7469374269272174768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 160
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c483c9460d36ac90800000000000000
+      internalID: -7158967460442176311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 160
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c27fa9384e549950800000000000000
+      internalID: 6454887830227219143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 160
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea531eb6642b8070800000000000000
+      internalID: 8109615577704913636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 161
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e7afb28c94346c0800000000000000
+      internalID: -4160400506680082833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 161
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acef76c41eb79140800000000000000
+      internalID: 4726455330387520675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 161
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e048b66264fe5e0800000000000000
+      internalID: -1878205388763689347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 160
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6fb204e52065e80800000000000000
+      internalID: -8190356268499863890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5988ddd9e96069fe0800000000000000
+      internalID: -1182750573815035755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 120
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53d972c472bfc3f0800000000000000
+      internalID: -878287187765243041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 120
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e69308c1264ede80800000000000000
+      internalID: -8152001164590475551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_20
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 120
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d439a2d7676a03270800000000000000
+      internalID: 8228259547042190157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 120
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce43a5ba96ab5b00800000000000000
+      internalID: 818430940700430031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5d852db0863efa0800000000000000
+      internalID: -5772655897375877647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 120
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951418f669c2e2de0800000000000000
+      internalID: -1356097413164482215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_24
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 120
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31f602b4a4cec2a0800000000000000
+      internalID: -6715213782722350787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 120
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd984d1b2f8c72f00800000000000000
+      internalID: 1092062379351771612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_26
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 120
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510126117d4f79b80800000000000000
+      internalID: -8387966576407474155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_27
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 120
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37362ad4e005c8d0800000000000000
+      internalID: -2826852208192637125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 80
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f947f2d85523d4c10800000000000000
+      internalID: 2039341549291009183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 80
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccbdcaa99854d420800000000000000
+      internalID: 2653843497446915276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 80
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64664ea75a8fcccf0800000000000000
+      internalID: -230536091287656890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 80
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb1823cdcbf83bc0800000000000000
+      internalID: -3803013024153330726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_32
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 80
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5733c0cef059da960800000000000000
+      internalID: 7614906440570647413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 80
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ddc7c174d242f10800000000000000
+      internalID: 2243968297781222713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_34
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 80
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8740ef3268d842a0800000000000000
+      internalID: -6752909724752001137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 40
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab8f7487c228ad20800000000000000
+      internalID: 3289917768110934955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab3f62a4c52e8e80800000000000000
+      internalID: -8174554747161855060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_37
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e9d50f96271c5d0800000000000000
+      internalID: -3044026073795944940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe16f0f729850dc0800000000000000
+      internalID: -3673379116411379983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_39
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c538c72563e2b8e0800000000000000
+      internalID: -1679029687457139262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniSlimeMonsterB_40
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 162
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a1daa5c1a392990800000000000000
+      internalID: -7410327818406651291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MiniSlimeMonsterB_0: 466844018830432599
+      MiniSlimeMonsterB_1: -3590917028673495670
+      MiniSlimeMonsterB_10: -7158967460442176311
+      MiniSlimeMonsterB_11: 6454887830227219143
+      MiniSlimeMonsterB_12: 8109615577704913636
+      MiniSlimeMonsterB_13: -4160400506680082833
+      MiniSlimeMonsterB_14: 4726455330387520675
+      MiniSlimeMonsterB_15: -1878205388763689347
+      MiniSlimeMonsterB_16: -8190356268499863890
+      MiniSlimeMonsterB_17: -1182750573815035755
+      MiniSlimeMonsterB_18: -878287187765243041
+      MiniSlimeMonsterB_19: -8152001164590475551
+      MiniSlimeMonsterB_2: -4901286166694131585
+      MiniSlimeMonsterB_20: 8228259547042190157
+      MiniSlimeMonsterB_21: 818430940700430031
+      MiniSlimeMonsterB_22: -5772655897375877647
+      MiniSlimeMonsterB_23: -1356097413164482215
+      MiniSlimeMonsterB_24: -6715213782722350787
+      MiniSlimeMonsterB_25: 1092062379351771612
+      MiniSlimeMonsterB_26: -8387966576407474155
+      MiniSlimeMonsterB_27: -2826852208192637125
+      MiniSlimeMonsterB_28: 2039341549291009183
+      MiniSlimeMonsterB_29: 2653843497446915276
+      MiniSlimeMonsterB_3: 3330723219278740853
+      MiniSlimeMonsterB_30: -230536091287656890
+      MiniSlimeMonsterB_31: -3803013024153330726
+      MiniSlimeMonsterB_32: 7614906440570647413
+      MiniSlimeMonsterB_33: 2243968297781222713
+      MiniSlimeMonsterB_34: -6752909724752001137
+      MiniSlimeMonsterB_35: 3289917768110934955
+      MiniSlimeMonsterB_36: -8174554747161855060
+      MiniSlimeMonsterB_37: -3044026073795944940
+      MiniSlimeMonsterB_38: -3673379116411379983
+      MiniSlimeMonsterB_39: -1679029687457139262
+      MiniSlimeMonsterB_4: 8910734319341890071
+      MiniSlimeMonsterB_40: -7410327818406651291
+      MiniSlimeMonsterB_5: 4595725513635864263
+      MiniSlimeMonsterB_6: 5621287790206038549
+      MiniSlimeMonsterB_7: -6977418616582210936
+      MiniSlimeMonsterB_8: 7646412445147657015
+      MiniSlimeMonsterB_9: 7469374269272174768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

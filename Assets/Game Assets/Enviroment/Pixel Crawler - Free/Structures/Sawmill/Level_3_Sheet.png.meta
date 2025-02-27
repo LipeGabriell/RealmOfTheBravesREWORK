@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: ccf62a9c2e97ac444ac68bd5656af6c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4698974078632628779
+    second: Level_3_Sheet_0
+  - first:
+      213: -5844167409229385057
+    second: Level_3_Sheet_1
+  - first:
+      213: -1659788268377542099
+    second: Level_3_Sheet_2
+  - first:
+      213: -1142808424437550615
+    second: Level_3_Sheet_3
+  - first:
+      213: 5829070946839581501
+    second: Level_3_Sheet_4
+  - first:
+      213: -5804239622473388514
+    second: Level_3_Sheet_5
+  - first:
+      213: 8143658977309505352
+    second: Level_3_Sheet_6
+  - first:
+      213: -5221068951747622042
+    second: Level_3_Sheet_7
+  - first:
+      213: 110407196131797931
+    second: Level_3_Sheet_8
+  - first:
+      213: 8592526979852921138
+    second: Level_3_Sheet_9
+  - first:
+      213: 4536480763326317373
+    second: Level_3_Sheet_10
+  - first:
+      213: 4008456259665917290
+    second: Level_3_Sheet_11
+  - first:
+      213: 5668966912630981979
+    second: Level_3_Sheet_12
+  - first:
+      213: 8326168143816014392
+    second: Level_3_Sheet_13
+  - first:
+      213: 6191922733578286316
+    second: Level_3_Sheet_14
+  - first:
+      213: 6771248046880722006
+    second: Level_3_Sheet_15
+  - first:
+      213: -5970791435488806812
+    second: Level_3_Sheet_16
+  - first:
+      213: -5862271792300200876
+    second: Level_3_Sheet_17
+  - first:
+      213: -8675519020166418840
+    second: Level_3_Sheet_18
+  - first:
+      213: 8688485421460569032
+    second: Level_3_Sheet_19
+  - first:
+      213: -2421871875335978241
+    second: Level_3_Sheet_20
+  - first:
+      213: 425408098409861534
+    second: Level_3_Sheet_21
+  - first:
+      213: -1225858247965893315
+    second: Level_3_Sheet_22
+  - first:
+      213: -5193404958860607178
+    second: Level_3_Sheet_23
+  - first:
+      213: -3978282304871578983
+    second: Level_3_Sheet_24
+  - first:
+      213: -1867385815138520322
+    second: Level_3_Sheet_25
+  - first:
+      213: 6565211032714973317
+    second: Level_3_Sheet_26
+  - first:
+      213: -816439115233159387
+    second: Level_3_Sheet_27
+  - first:
+      213: -66195452321357605
+    second: Level_3_Sheet_28
+  - first:
+      213: 7065969247081633175
+    second: Level_3_Sheet_29
+  - first:
+      213: 4614479803238987026
+    second: Level_3_Sheet_30
+  - first:
+      213: 5813029498082570557
+    second: Level_3_Sheet_31
+  - first:
+      213: 8540661102537737021
+    second: Level_3_Sheet_32
+  - first:
+      213: -8669762284365427534
+    second: Level_3_Sheet_33
+  - first:
+      213: 8962652483703260618
+    second: Level_3_Sheet_34
+  - first:
+      213: -1669419102615344080
+    second: Level_3_Sheet_35
+  - first:
+      213: -1135853712938964696
+    second: Level_3_Sheet_36
+  - first:
+      213: -2048602106040795510
+    second: Level_3_Sheet_37
+  - first:
+      213: -5500536855366314868
+    second: Level_3_Sheet_38
+  - first:
+      213: -4344963898123627074
+    second: Level_3_Sheet_39
+  - first:
+      213: -1921077006391404413
+    second: Level_3_Sheet_40
+  - first:
+      213: 6918596782316754860
+    second: Level_3_Sheet_41
+  - first:
+      213: -3346989687174097901
+    second: Level_3_Sheet_42
+  - first:
+      213: -7650131839713784319
+    second: Level_3_Sheet_43
+  - first:
+      213: -1344305843372688560
+    second: Level_3_Sheet_44
+  - first:
+      213: -7117967920606165075
+    second: Level_3_Sheet_45
+  - first:
+      213: 7101259470305707073
+    second: Level_3_Sheet_46
+  - first:
+      213: -7576382163694565150
+    second: Level_3_Sheet_47
+  - first:
+      213: -1989119591054743523
+    second: Level_3_Sheet_48
+  - first:
+      213: -1123691184688860274
+    second: Level_3_Sheet_49
+  - first:
+      213: 342032360450414546
+    second: Level_3_Sheet_50
+  - first:
+      213: -3710728172496578164
+    second: Level_3_Sheet_51
+  - first:
+      213: -3803284816702978703
+    second: Level_3_Sheet_52
+  - first:
+      213: 726981252790873408
+    second: Level_3_Sheet_53
+  - first:
+      213: 8391812190309754556
+    second: Level_3_Sheet_54
+  - first:
+      213: 2815387365972407789
+    second: Level_3_Sheet_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level_3_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 113
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b229aad370c163140800000000000000
+      internalID: 4698974078632628779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 483
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92b7fc74b855eea0800000000000000
+      internalID: -5844167409229385057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 483
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22fef42d5f37f8e0800000000000000
+      internalID: -1659788268377542099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 483
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e17317facde320f0800000000000000
+      internalID: -1142808424437550615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 483
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d335ce4742505e050800000000000000
+      internalID: 5829070946839581501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 483
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ee937c0d2337fa0800000000000000
+      internalID: -5804239622473388514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 483
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847347261b6140170800000000000000
+      internalID: 8143658977309505352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 483
+        width: 113
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b034763790b87b0800000000000000
+      internalID: -5221068951747622042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 113
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab251a82ce388100800000000000000
+      internalID: 110407196131797931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 403
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239e71553c9ce3770800000000000000
+      internalID: 8592526979852921138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 403
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33457c0831d4fe30800000000000000
+      internalID: 4536480763326317373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 403
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65f31ffab5e0a730800000000000000
+      internalID: 4008456259665917290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 403
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5500de1f573cae40800000000000000
+      internalID: 5668966912630981979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 403
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ab35810dd7c8370800000000000000
+      internalID: 8326168143816014392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 403
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce479938be02ee550800000000000000
+      internalID: 6191922733578286316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 403
+        width: 113
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c0268193e48fd50800000000000000
+      internalID: 6771248046880722006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 113
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468beb3f2dc732da0800000000000000
+      internalID: -5970791435488806812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 323
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c67235dd605aea0800000000000000
+      internalID: -5862271792300200876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 323
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ee5d08a6d5a9780800000000000000
+      internalID: -8675519020166418840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 323
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb315e0573b39870800000000000000
+      internalID: 8688485421460569032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 323
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2071b6c58c36ed0800000000000000
+      internalID: -2421871875335978241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 323
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e915b4e596a57e500800000000000000
+      internalID: 425408098409861534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 323
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d92091b60ecfee0800000000000000
+      internalID: -1225858247965893315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 323
+        width: 113
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6318c5ca4b15de7b0800000000000000
+      internalID: -5193404958860607178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 113
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99248e1525d4ac8c0800000000000000
+      internalID: -3978282304871578983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 243
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2b016be76b516e0800000000000000
+      internalID: -1867385815138520322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 243
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580937876a05c1b50800000000000000
+      internalID: 6565211032714973317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 243
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5271bcb43fc6ba4f0800000000000000
+      internalID: -816439115233159387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 243
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0a3aa3693d41ff0800000000000000
+      internalID: -66195452321357605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 243
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7959226d79d5f0260800000000000000
+      internalID: 7065969247081633175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 243
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2153647beece90040800000000000000
+      internalID: 4614479803238987026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 243
+        width: 113
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31341e97870ca050800000000000000
+      internalID: 5813029498082570557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 113
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3302cbb506868670800000000000000
+      internalID: 8540661102537737021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 163
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcc1510321dea780800000000000000
+      internalID: -8669762284365427534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 163
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5c760a2fcb16c70800000000000000
+      internalID: 8962652483703260618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 163
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c6c5fcb2805d8e0800000000000000
+      internalID: -1669419102615344080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 163
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829e67be013ac30f0800000000000000
+      internalID: -1135853712938964696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 163
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e325f0d37e193e0800000000000000
+      internalID: -2048602106040795510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 163
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8452f58fda2aa3b0800000000000000
+      internalID: -5500536855366314868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 163
+        width: 113
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5d172fa5693b3c0800000000000000
+      internalID: -4344963898123627074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 113
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3889ed714a6f655e0800000000000000
+      internalID: -1921077006391404413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 83
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca796220e1bc30060800000000000000
+      internalID: 6918596782316754860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 83
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3149715dc9a1d81d0800000000000000
+      internalID: -3346989687174097901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 83
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e44f8bf9545d590800000000000000
+      internalID: -7650131839713784319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 83
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bf94835f0185de0800000000000000
+      internalID: -1344305843372688560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 83
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7c4a983e5e73d90800000000000000
+      internalID: -7117967920606165075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 83
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14443793dddbc8260800000000000000
+      internalID: 7101259470305707073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 83
+        width: 113
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8416240984bd690800000000000000
+      internalID: -7576382163694565150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 113
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18696f454a3564e0800000000000000
+      internalID: -1989119591054743523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83f16332d8d760f0800000000000000
+      internalID: -1123691184688860274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7d552ae942fb400800000000000000
+      internalID: 342032360450414546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c899e4c2368d08cc0800000000000000
+      internalID: -3710728172496578164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17548c02c94083bc0800000000000000
+      internalID: -3803284816702978703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 3
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04de7f20991c61a00800000000000000
+      internalID: 726981252790873408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 3
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6a431b9b4b57470800000000000000
+      internalID: 8391812190309754556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_3_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 3
+        width: 113
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de578ed84e3421720800000000000000
+      internalID: 2815387365972407789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Level_3_Sheet_0: 4698974078632628779
+      Level_3_Sheet_1: -5844167409229385057
+      Level_3_Sheet_10: 4536480763326317373
+      Level_3_Sheet_11: 4008456259665917290
+      Level_3_Sheet_12: 5668966912630981979
+      Level_3_Sheet_13: 8326168143816014392
+      Level_3_Sheet_14: 6191922733578286316
+      Level_3_Sheet_15: 6771248046880722006
+      Level_3_Sheet_16: -5970791435488806812
+      Level_3_Sheet_17: -5862271792300200876
+      Level_3_Sheet_18: -8675519020166418840
+      Level_3_Sheet_19: 8688485421460569032
+      Level_3_Sheet_2: -1659788268377542099
+      Level_3_Sheet_20: -2421871875335978241
+      Level_3_Sheet_21: 425408098409861534
+      Level_3_Sheet_22: -1225858247965893315
+      Level_3_Sheet_23: -5193404958860607178
+      Level_3_Sheet_24: -3978282304871578983
+      Level_3_Sheet_25: -1867385815138520322
+      Level_3_Sheet_26: 6565211032714973317
+      Level_3_Sheet_27: -816439115233159387
+      Level_3_Sheet_28: -66195452321357605
+      Level_3_Sheet_29: 7065969247081633175
+      Level_3_Sheet_3: -1142808424437550615
+      Level_3_Sheet_30: 4614479803238987026
+      Level_3_Sheet_31: 5813029498082570557
+      Level_3_Sheet_32: 8540661102537737021
+      Level_3_Sheet_33: -8669762284365427534
+      Level_3_Sheet_34: 8962652483703260618
+      Level_3_Sheet_35: -1669419102615344080
+      Level_3_Sheet_36: -1135853712938964696
+      Level_3_Sheet_37: -2048602106040795510
+      Level_3_Sheet_38: -5500536855366314868
+      Level_3_Sheet_39: -4344963898123627074
+      Level_3_Sheet_4: 5829070946839581501
+      Level_3_Sheet_40: -1921077006391404413
+      Level_3_Sheet_41: 6918596782316754860
+      Level_3_Sheet_42: -3346989687174097901
+      Level_3_Sheet_43: -7650131839713784319
+      Level_3_Sheet_44: -1344305843372688560
+      Level_3_Sheet_45: -7117967920606165075
+      Level_3_Sheet_46: 7101259470305707073
+      Level_3_Sheet_47: -7576382163694565150
+      Level_3_Sheet_48: -1989119591054743523
+      Level_3_Sheet_49: -1123691184688860274
+      Level_3_Sheet_5: -5804239622473388514
+      Level_3_Sheet_50: 342032360450414546
+      Level_3_Sheet_51: -3710728172496578164
+      Level_3_Sheet_52: -3803284816702978703
+      Level_3_Sheet_53: 726981252790873408
+      Level_3_Sheet_54: 8391812190309754556
+      Level_3_Sheet_55: 2815387365972407789
+      Level_3_Sheet_6: 8143658977309505352
+      Level_3_Sheet_7: -5221068951747622042
+      Level_3_Sheet_8: 110407196131797931
+      Level_3_Sheet_9: 8592526979852921138
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

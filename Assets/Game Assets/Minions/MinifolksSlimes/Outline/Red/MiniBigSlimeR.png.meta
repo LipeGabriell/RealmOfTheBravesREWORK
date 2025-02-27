@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: d79e04366f5e29844b05a73afc6c2cf2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3346092099529670130
+    second: MiniBigSlimeR_0
+  - first:
+      213: 8366790864817584863
+    second: MiniBigSlimeR_1
+  - first:
+      213: 4968962064522095168
+    second: MiniBigSlimeR_2
+  - first:
+      213: 6101267673635440101
+    second: MiniBigSlimeR_3
+  - first:
+      213: -7949244080364635681
+    second: MiniBigSlimeR_4
+  - first:
+      213: -3163221548533683979
+    second: MiniBigSlimeR_5
+  - first:
+      213: -7256413387660726606
+    second: MiniBigSlimeR_6
+  - first:
+      213: 4578112953545412521
+    second: MiniBigSlimeR_7
+  - first:
+      213: -4541873169375127241
+    second: MiniBigSlimeR_8
+  - first:
+      213: -1444273301532887032
+    second: MiniBigSlimeR_9
+  - first:
+      213: -1978170604230689578
+    second: MiniBigSlimeR_10
+  - first:
+      213: 6932400654441037368
+    second: MiniBigSlimeR_11
+  - first:
+      213: -5771246968728175894
+    second: MiniBigSlimeR_12
+  - first:
+      213: -5179725276323935251
+    second: MiniBigSlimeR_13
+  - first:
+      213: -1491085763620074978
+    second: MiniBigSlimeR_14
+  - first:
+      213: -4015449832042049854
+    second: MiniBigSlimeR_15
+  - first:
+      213: 6269504716539471895
+    second: MiniBigSlimeR_16
+  - first:
+      213: -8054741588383221576
+    second: MiniBigSlimeR_17
+  - first:
+      213: -3988417743581640490
+    second: MiniBigSlimeR_18
+  - first:
+      213: 748044813935362538
+    second: MiniBigSlimeR_19
+  - first:
+      213: 422158929469571242
+    second: MiniBigSlimeR_20
+  - first:
+      213: 1378095700933506183
+    second: MiniBigSlimeR_21
+  - first:
+      213: -178129615424015077
+    second: MiniBigSlimeR_22
+  - first:
+      213: -3698889882272280624
+    second: MiniBigSlimeR_23
+  - first:
+      213: -3030264848336778373
+    second: MiniBigSlimeR_24
+  - first:
+      213: 7080820979212745384
+    second: MiniBigSlimeR_25
+  - first:
+      213: 6920793107219671327
+    second: MiniBigSlimeR_26
+  - first:
+      213: -229441377352945829
+    second: MiniBigSlimeR_27
+  - first:
+      213: -3852569499857567844
+    second: MiniBigSlimeR_28
+  - first:
+      213: -1841536451775993956
+    second: MiniBigSlimeR_29
+  - first:
+      213: 4844572168635408250
+    second: MiniBigSlimeR_30
+  - first:
+      213: -755670193157948554
+    second: MiniBigSlimeR_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniBigSlimeR_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 160
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdf4324905bf6e20800000000000000
+      internalID: 3346092099529670130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 160
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda7f6f56ffcc1470800000000000000
+      internalID: 8366790864817584863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 160
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a2b36cbac45f440800000000000000
+      internalID: 4968962064522095168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 160
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e54d9e8f9e0ca450800000000000000
+      internalID: 6101267673635440101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 128
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd93df430ac9ea190800000000000000
+      internalID: -7949244080364635681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 128
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8e9c5d2caf914d0800000000000000
+      internalID: -3163221548533683979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 130
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bee715587a0c4b90800000000000000
+      internalID: -7256413387660726606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 128
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af40b1b979b88f30800000000000000
+      internalID: 4578112953545412521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 128
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73994849a6608f0c0800000000000000
+      internalID: -4541873169375127241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8083d879519e4fbe0800000000000000
+      internalID: -1444273301532887032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcb5b5f0502c84e0800000000000000
+      internalID: -1978170604230689578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83eb4a07aa5d43060800000000000000
+      internalID: 6932400654441037368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea38e5957968efa0800000000000000
+      internalID: -5771246968728175894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 96
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb8996fd4bed18b0800000000000000
+      internalID: -5179725276323935251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 96
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a88c9e5699e4be0800000000000000
+      internalID: -1491085763620074978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 96
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce4bbb07a14648c0800000000000000
+      internalID: -4015449832042049854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_16
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 96
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718a8fa8251c10750800000000000000
+      internalID: 6269504716539471895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b83ad2833fc73090800000000000000
+      internalID: -8054741588383221576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 64
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d883f9913b46a8c0800000000000000
+      internalID: -3988417743581640490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 32
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1c0b28bc6916a00800000000000000
+      internalID: 748044813935362538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 34
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa00bc54f4fcbd500800000000000000
+      internalID: 422158929469571242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 34
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78472a01dbaff1310800000000000000
+      internalID: 1378095700933506183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15bcacfe08278df0800000000000000
+      internalID: -178129615424015077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 35
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfcfd7ef37eaacc0800000000000000
+      internalID: -3698889882272280624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 33
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b888bec2652f5d0800000000000000
+      internalID: -3030264848336778373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 33
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aafb103a21244260800000000000000
+      internalID: 7080820979212745384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_26
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 32
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19eccfb9a89b0060800000000000000
+      internalID: 6920793107219671327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 32
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fe91e684cd0dcf0800000000000000
+      internalID: -229441377352945829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 32
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f3c70a37ce88ac0800000000000000
+      internalID: -3852569499857567844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_29
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9765fe9a5c8176e0800000000000000
+      internalID: -1841536451775993956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_30
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fd14048b06b3340800000000000000
+      internalID: 4844572168635408250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniBigSlimeR_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b387986f15385f0800000000000000
+      internalID: -755670193157948554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MiniBigSlimeR_0: 3346092099529670130
+      MiniBigSlimeR_1: 8366790864817584863
+      MiniBigSlimeR_10: -1978170604230689578
+      MiniBigSlimeR_11: 6932400654441037368
+      MiniBigSlimeR_12: -5771246968728175894
+      MiniBigSlimeR_13: -5179725276323935251
+      MiniBigSlimeR_14: -1491085763620074978
+      MiniBigSlimeR_15: -4015449832042049854
+      MiniBigSlimeR_16: 6269504716539471895
+      MiniBigSlimeR_17: -8054741588383221576
+      MiniBigSlimeR_18: -3988417743581640490
+      MiniBigSlimeR_19: 748044813935362538
+      MiniBigSlimeR_2: 4968962064522095168
+      MiniBigSlimeR_20: 422158929469571242
+      MiniBigSlimeR_21: 1378095700933506183
+      MiniBigSlimeR_22: -178129615424015077
+      MiniBigSlimeR_23: -3698889882272280624
+      MiniBigSlimeR_24: -3030264848336778373
+      MiniBigSlimeR_25: 7080820979212745384
+      MiniBigSlimeR_26: 6920793107219671327
+      MiniBigSlimeR_27: -229441377352945829
+      MiniBigSlimeR_28: -3852569499857567844
+      MiniBigSlimeR_29: -1841536451775993956
+      MiniBigSlimeR_3: 6101267673635440101
+      MiniBigSlimeR_30: 4844572168635408250
+      MiniBigSlimeR_31: -755670193157948554
+      MiniBigSlimeR_4: -7949244080364635681
+      MiniBigSlimeR_5: -3163221548533683979
+      MiniBigSlimeR_6: -7256413387660726606
+      MiniBigSlimeR_7: 4578112953545412521
+      MiniBigSlimeR_8: -4541873169375127241
+      MiniBigSlimeR_9: -1444273301532887032
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

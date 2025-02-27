@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 3a875385f9b37384983f6085f7051c47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3872400618748102687
+    second: MiniHorseMan_0
+  - first:
+      213: -1044617048275741950
+    second: MiniHorseMan_1
+  - first:
+      213: -7324949768780914277
+    second: MiniHorseMan_2
+  - first:
+      213: 8674221762900662989
+    second: MiniHorseMan_3
+  - first:
+      213: 796628112153804928
+    second: MiniHorseMan_4
+  - first:
+      213: -6141458602406484883
+    second: MiniHorseMan_5
+  - first:
+      213: -8169778973857073561
+    second: MiniHorseMan_6
+  - first:
+      213: -7839376634851461781
+    second: MiniHorseMan_7
+  - first:
+      213: 8268163127376681695
+    second: MiniHorseMan_8
+  - first:
+      213: -1629279059122679425
+    second: MiniHorseMan_9
+  - first:
+      213: -9004155713997059201
+    second: MiniHorseMan_10
+  - first:
+      213: 1675147584258165183
+    second: MiniHorseMan_11
+  - first:
+      213: -8523684323497972326
+    second: MiniHorseMan_12
+  - first:
+      213: -8615740228386125432
+    second: MiniHorseMan_13
+  - first:
+      213: -2271299444317233908
+    second: MiniHorseMan_14
+  - first:
+      213: 7962046537806746972
+    second: MiniHorseMan_15
+  - first:
+      213: 5721270906812581205
+    second: MiniHorseMan_16
+  - first:
+      213: 3413615821876977051
+    second: MiniHorseMan_17
+  - first:
+      213: 8021790482694647110
+    second: MiniHorseMan_18
+  - first:
+      213: 1596610793742946612
+    second: MiniHorseMan_19
+  - first:
+      213: 2017060846894124053
+    second: MiniHorseMan_20
+  - first:
+      213: 8890328398344016963
+    second: MiniHorseMan_21
+  - first:
+      213: -5204840047301790966
+    second: MiniHorseMan_22
+  - first:
+      213: 7043123585790419929
+    second: MiniHorseMan_23
+  - first:
+      213: -1931214341227063246
+    second: MiniHorseMan_24
+  - first:
+      213: -1097323406877118720
+    second: MiniHorseMan_25
+  - first:
+      213: 8908158348993778417
+    second: MiniHorseMan_26
+  - first:
+      213: -74550962490515557
+    second: MiniHorseMan_27
+  - first:
+      213: -2853844089442772645
+    second: MiniHorseMan_28
+  - first:
+      213: 4650307940980948803
+    second: MiniHorseMan_29
+  - first:
+      213: -1616177277947970386
+    second: MiniHorseMan_30
+  - first:
+      213: -4897105858796068013
+    second: MiniHorseMan_31
+  - first:
+      213: 2694981284165415726
+    second: MiniHorseMan_32
+  - first:
+      213: -1403982013153341316
+    second: MiniHorseMan_33
+  - first:
+      213: 7560482039139490784
+    second: MiniHorseMan_34
+  - first:
+      213: -4156019249159609937
+    second: MiniHorseMan_35
+  - first:
+      213: -5980491832588905812
+    second: MiniHorseMan_36
+  - first:
+      213: -8567348735481490507
+    second: MiniHorseMan_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniHorseMan_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 192
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e734837728724ac0800000000000000
+      internalID: -3872400618748102687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 192
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20315374456c081f0800000000000000
+      internalID: -1044617048275741950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 192
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91eb3a9efc885a90800000000000000
+      internalID: -7324949768780914277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 192
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca18a04cb6016870800000000000000
+      internalID: 8674221762900662989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 192
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080840b1c013e0b00800000000000000
+      internalID: 796628112153804928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 192
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d646bc0a0f725caa0800000000000000
+      internalID: -6141458602406484883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 192
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7663bc10f4d1f9e80800000000000000
+      internalID: -8169778973857073561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 192
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b657e234c70f43390800000000000000
+      internalID: -7839376634851461781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda1548ce8a6eb270800000000000000
+      internalID: 8268163127376681695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 160
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f719209f353a369e0800000000000000
+      internalID: -1629279059122679425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 160
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bc6ec8510da0380800000000000000
+      internalID: -9004155713997059201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9cf024ad15f3710800000000000000
+      internalID: 1675147584258165183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 160
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d6658a44ac5b980800000000000000
+      internalID: -8523684323497972326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 160
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889800219edbe6880800000000000000
+      internalID: -8615740228386125432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ddde27039ba70e0800000000000000
+      internalID: -2271299444317233908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 128
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c559913342fde7e60800000000000000
+      internalID: 7962046537806746972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 128
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5554750c399066f40800000000000000
+      internalID: 5721270906812581205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 128
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d51aef0899f5f20800000000000000
+      internalID: 3413615821876977051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 128
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64daf9751ff135f60800000000000000
+      internalID: 8021790482694647110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 128
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4315a95ce0d482610800000000000000
+      internalID: 1596610793742946612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c0975472a0efb10800000000000000
+      internalID: 2017060846894124053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 96
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344dcd7439ac06b70800000000000000
+      internalID: 8890328398344016963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 96
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0379dbad81b4c7b0800000000000000
+      internalID: -5204840047301790966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3a630d5933eb160800000000000000
+      internalID: 7043123585790419929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 64
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2385506e9c2f235e0800000000000000
+      internalID: -1931214341227063246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f2e51ec2685c0f0800000000000000
+      internalID: -1097323406877118720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 64
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f254ba22d220ab70800000000000000
+      internalID: 8908158348993778417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_27
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 64
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fd61b6b4427fef0800000000000000
+      internalID: -74550962490515557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_28
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 64
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b595a64cbeb1568d0800000000000000
+      internalID: -2853844089442772645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_29
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 64
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ff8561f66398040800000000000000
+      internalID: 4650307940980948803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 32
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac7add145f2299e0800000000000000
+      internalID: -1616177277947970386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 32
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353e9fada2cf90cb0800000000000000
+      internalID: -4897105858796068013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e237107033f766520800000000000000
+      internalID: 2694981284165415726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7015f23ccd048ce0800000000000000
+      internalID: -1403982013153341316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb51a18b5a3ce860800000000000000
+      internalID: 7560482039139490784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1e72e238ad256c0800000000000000
+      internalID: -4156019249159609937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2d9604d56010da0800000000000000
+      internalID: -5980491832588905812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniHorseMan_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3dbb287b9aa1980800000000000000
+      internalID: -8567348735481490507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MiniHorseMan_0: -3872400618748102687
+      MiniHorseMan_1: -1044617048275741950
+      MiniHorseMan_10: -9004155713997059201
+      MiniHorseMan_11: 1675147584258165183
+      MiniHorseMan_12: -8523684323497972326
+      MiniHorseMan_13: -8615740228386125432
+      MiniHorseMan_14: -2271299444317233908
+      MiniHorseMan_15: 7962046537806746972
+      MiniHorseMan_16: 5721270906812581205
+      MiniHorseMan_17: 3413615821876977051
+      MiniHorseMan_18: 8021790482694647110
+      MiniHorseMan_19: 1596610793742946612
+      MiniHorseMan_2: -7324949768780914277
+      MiniHorseMan_20: 2017060846894124053
+      MiniHorseMan_21: 8890328398344016963
+      MiniHorseMan_22: -5204840047301790966
+      MiniHorseMan_23: 7043123585790419929
+      MiniHorseMan_24: -1931214341227063246
+      MiniHorseMan_25: -1097323406877118720
+      MiniHorseMan_26: 8908158348993778417
+      MiniHorseMan_27: -74550962490515557
+      MiniHorseMan_28: -2853844089442772645
+      MiniHorseMan_29: 4650307940980948803
+      MiniHorseMan_3: 8674221762900662989
+      MiniHorseMan_30: -1616177277947970386
+      MiniHorseMan_31: -4897105858796068013
+      MiniHorseMan_32: 2694981284165415726
+      MiniHorseMan_33: -1403982013153341316
+      MiniHorseMan_34: 7560482039139490784
+      MiniHorseMan_35: -4156019249159609937
+      MiniHorseMan_36: -5980491832588905812
+      MiniHorseMan_37: -8567348735481490507
+      MiniHorseMan_4: 796628112153804928
+      MiniHorseMan_5: -6141458602406484883
+      MiniHorseMan_6: -8169778973857073561
+      MiniHorseMan_7: -7839376634851461781
+      MiniHorseMan_8: 8268163127376681695
+      MiniHorseMan_9: -1629279059122679425
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

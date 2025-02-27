@@ -1,0 +1,4810 @@
+fileFormatVersion: 2
+guid: b110b673363a608409ae832783bd7578
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1597848287319121517
+    second: WorkTable - Tools_0
+  - first:
+      213: 7096035018459160586
+    second: WorkTable - Tools_1
+  - first:
+      213: -5896125265336900803
+    second: WorkTable - Tools_2
+  - first:
+      213: 9156236987646029273
+    second: WorkTable - Tools_3
+  - first:
+      213: 8640305625509967073
+    second: WorkTable - Tools_4
+  - first:
+      213: 1221126846932215619
+    second: WorkTable - Tools_5
+  - first:
+      213: 4899490479231642603
+    second: WorkTable - Tools_6
+  - first:
+      213: 5389313830390503022
+    second: WorkTable - Tools_7
+  - first:
+      213: -5979748724385855324
+    second: WorkTable - Tools_8
+  - first:
+      213: -3545450460194725208
+    second: WorkTable - Tools_9
+  - first:
+      213: -79537584917138045
+    second: WorkTable - Tools_10
+  - first:
+      213: 2462516713194567395
+    second: WorkTable - Tools_11
+  - first:
+      213: -8246349209197359180
+    second: WorkTable - Tools_12
+  - first:
+      213: 8916032964786038824
+    second: WorkTable - Tools_13
+  - first:
+      213: 5947775740886413658
+    second: WorkTable - Tools_14
+  - first:
+      213: -8332911587639131349
+    second: WorkTable - Tools_15
+  - first:
+      213: -4721724441193281178
+    second: WorkTable - Tools_16
+  - first:
+      213: -1273628653307079890
+    second: WorkTable - Tools_17
+  - first:
+      213: 4993031114683407542
+    second: WorkTable - Tools_18
+  - first:
+      213: 4452514164609100904
+    second: WorkTable - Tools_19
+  - first:
+      213: -8829508450953233682
+    second: WorkTable - Tools_20
+  - first:
+      213: -4472019141933522844
+    second: WorkTable - Tools_21
+  - first:
+      213: -1123865507575716130
+    second: WorkTable - Tools_22
+  - first:
+      213: 1571418564261517600
+    second: WorkTable - Tools_23
+  - first:
+      213: -5143868235267220233
+    second: WorkTable - Tools_24
+  - first:
+      213: -4783626107086459459
+    second: WorkTable - Tools_25
+  - first:
+      213: -4725997313101065632
+    second: WorkTable - Tools_26
+  - first:
+      213: -149433056745408395
+    second: WorkTable - Tools_27
+  - first:
+      213: -3834099926262914714
+    second: WorkTable - Tools_28
+  - first:
+      213: 2328141050359848409
+    second: WorkTable - Tools_29
+  - first:
+      213: 1596855255459016354
+    second: WorkTable - Tools_30
+  - first:
+      213: -3234717219623750396
+    second: WorkTable - Tools_31
+  - first:
+      213: -6886765497709150017
+    second: WorkTable - Tools_32
+  - first:
+      213: 272360419818516803
+    second: WorkTable - Tools_33
+  - first:
+      213: 1640642513318120725
+    second: WorkTable - Tools_34
+  - first:
+      213: -6467245712407496705
+    second: WorkTable - Tools_35
+  - first:
+      213: -7962286113920218411
+    second: WorkTable - Tools_36
+  - first:
+      213: 8099299275500501567
+    second: WorkTable - Tools_37
+  - first:
+      213: 5340287166847747908
+    second: WorkTable - Tools_38
+  - first:
+      213: -5884691580403157158
+    second: WorkTable - Tools_39
+  - first:
+      213: 1034518100966266385
+    second: WorkTable - Tools_40
+  - first:
+      213: 5177007993346660645
+    second: WorkTable - Tools_41
+  - first:
+      213: -9083553008222082616
+    second: WorkTable - Tools_42
+  - first:
+      213: 142151751977047612
+    second: WorkTable - Tools_43
+  - first:
+      213: 100479888941202309
+    second: WorkTable - Tools_44
+  - first:
+      213: 2896583098970088328
+    second: WorkTable - Tools_45
+  - first:
+      213: -7039026206948647390
+    second: WorkTable - Tools_46
+  - first:
+      213: 8839194019875729815
+    second: WorkTable - Tools_47
+  - first:
+      213: -3388451350148371703
+    second: WorkTable - Tools_48
+  - first:
+      213: -3840976487087528219
+    second: WorkTable - Tools_49
+  - first:
+      213: 2766521267968789183
+    second: WorkTable - Tools_50
+  - first:
+      213: 4659224566762436631
+    second: WorkTable - Tools_51
+  - first:
+      213: 6799044209450452763
+    second: WorkTable - Tools_52
+  - first:
+      213: -100429675555394454
+    second: WorkTable - Tools_53
+  - first:
+      213: -8137915708365615509
+    second: WorkTable - Tools_54
+  - first:
+      213: 7557268150712394826
+    second: WorkTable - Tools_55
+  - first:
+      213: 1289074538804065143
+    second: WorkTable - Tools_56
+  - first:
+      213: 2695540015032400609
+    second: WorkTable - Tools_57
+  - first:
+      213: 8129014857119754601
+    second: WorkTable - Tools_58
+  - first:
+      213: -6366987874192211097
+    second: WorkTable - Tools_59
+  - first:
+      213: -8014920366663113666
+    second: WorkTable - Tools_60
+  - first:
+      213: 8151519204645898341
+    second: WorkTable - Tools_61
+  - first:
+      213: -3175535331144906267
+    second: WorkTable - Tools_62
+  - first:
+      213: 3488484189561693278
+    second: WorkTable - Tools_63
+  - first:
+      213: -5122167337815463835
+    second: WorkTable - Tools_64
+  - first:
+      213: -3538427139260730501
+    second: WorkTable - Tools_65
+  - first:
+      213: 202206344738441988
+    second: WorkTable - Tools_66
+  - first:
+      213: -615265123243377330
+    second: WorkTable - Tools_67
+  - first:
+      213: -7972488418134354465
+    second: WorkTable - Tools_68
+  - first:
+      213: -9206040989091202169
+    second: WorkTable - Tools_69
+  - first:
+      213: 7127603263195494899
+    second: WorkTable - Tools_70
+  - first:
+      213: 5941363714814063130
+    second: WorkTable - Tools_71
+  - first:
+      213: -4216217169010672147
+    second: WorkTable - Tools_72
+  - first:
+      213: -8449057237707091892
+    second: WorkTable - Tools_73
+  - first:
+      213: -936411753528916638
+    second: WorkTable - Tools_74
+  - first:
+      213: -7939140392723974085
+    second: WorkTable - Tools_75
+  - first:
+      213: -347647639253195305
+    second: WorkTable - Tools_76
+  - first:
+      213: 6736929776288177504
+    second: WorkTable - Tools_77
+  - first:
+      213: -6355185439737436692
+    second: WorkTable - Tools_78
+  - first:
+      213: -8298513375596578571
+    second: WorkTable - Tools_79
+  - first:
+      213: 5341463703839017332
+    second: WorkTable - Tools_80
+  - first:
+      213: 3306010820195349235
+    second: WorkTable - Tools_81
+  - first:
+      213: 1643183327244518291
+    second: WorkTable - Tools_82
+  - first:
+      213: -1903013501397680017
+    second: WorkTable - Tools_83
+  - first:
+      213: -2380950662635634494
+    second: WorkTable - Tools_84
+  - first:
+      213: 3489459588980435616
+    second: WorkTable - Tools_85
+  - first:
+      213: -3713000372381960109
+    second: WorkTable - Tools_86
+  - first:
+      213: -769844101896952954
+    second: WorkTable - Tools_87
+  - first:
+      213: 4478630246599237159
+    second: WorkTable - Tools_88
+  - first:
+      213: -86750051422972171
+    second: WorkTable - Tools_89
+  - first:
+      213: -705916172376368710
+    second: WorkTable - Tools_90
+  - first:
+      213: -1251763879179902822
+    second: WorkTable - Tools_91
+  - first:
+      213: 7960781113889449648
+    second: WorkTable - Tools_92
+  - first:
+      213: 2084565167217693456
+    second: WorkTable - Tools_93
+  - first:
+      213: -7892121762683234711
+    second: WorkTable - Tools_94
+  - first:
+      213: -4228078706685142734
+    second: WorkTable - Tools_95
+  - first:
+      213: -2393825629413415571
+    second: WorkTable - Tools_96
+  - first:
+      213: -6824738456787392846
+    second: WorkTable - Tools_97
+  - first:
+      213: 2605555253085600105
+    second: WorkTable - Tools_98
+  - first:
+      213: 4756604294432812960
+    second: WorkTable - Tools_99
+  - first:
+      213: -7147862551374281872
+    second: WorkTable - Tools_100
+  - first:
+      213: -8067916296971438711
+    second: WorkTable - Tools_101
+  - first:
+      213: 8619884002120104638
+    second: WorkTable - Tools_102
+  - first:
+      213: 5346063654229240866
+    second: WorkTable - Tools_103
+  - first:
+      213: -2544124994168924572
+    second: WorkTable - Tools_104
+  - first:
+      213: 5429452192998991187
+    second: WorkTable - Tools_105
+  - first:
+      213: 1849026199119718555
+    second: WorkTable - Tools_106
+  - first:
+      213: -2308368981009243438
+    second: WorkTable - Tools_107
+  - first:
+      213: -3082921339601394045
+    second: WorkTable - Tools_108
+  - first:
+      213: -8861051931713695188
+    second: WorkTable - Tools_109
+  - first:
+      213: 7078232896385771983
+    second: WorkTable - Tools_110
+  - first:
+      213: 227968037572059421
+    second: WorkTable - Tools_111
+  - first:
+      213: -3436661198634947893
+    second: WorkTable - Tools_112
+  - first:
+      213: 2369579493725296950
+    second: WorkTable - Tools_113
+  - first:
+      213: -7195368024863971495
+    second: WorkTable - Tools_114
+  - first:
+      213: 3229941767235859213
+    second: WorkTable - Tools_115
+  - first:
+      213: 8490256802478624073
+    second: WorkTable - Tools_116
+  - first:
+      213: -3913743409740698064
+    second: WorkTable - Tools_117
+  - first:
+      213: 136394109431312570
+    second: WorkTable - Tools_118
+  - first:
+      213: -1557061441425716599
+    second: WorkTable - Tools_119
+  - first:
+      213: -7677204731402841291
+    second: WorkTable - Tools_120
+  - first:
+      213: -8004424953798257080
+    second: WorkTable - Tools_121
+  - first:
+      213: 8326193401891084728
+    second: WorkTable - Tools_122
+  - first:
+      213: -220871505182665663
+    second: WorkTable - Tools_123
+  - first:
+      213: -4979131584965377956
+    second: WorkTable - Tools_124
+  - first:
+      213: 8441065825479795685
+    second: WorkTable - Tools_125
+  - first:
+      213: 2451442584910365648
+    second: WorkTable - Tools_126
+  - first:
+      213: 283401863997128760
+    second: WorkTable - Tools_127
+  - first:
+      213: -272024150607180253
+    second: WorkTable - Tools_128
+  - first:
+      213: 3398059467358291132
+    second: WorkTable - Tools_129
+  - first:
+      213: -5180021401399476566
+    second: WorkTable - Tools_130
+  - first:
+      213: 8589000862340206130
+    second: WorkTable - Tools_131
+  - first:
+      213: -5106095389123505661
+    second: WorkTable - Tools_132
+  - first:
+      213: 6575490623965490230
+    second: WorkTable - Tools_133
+  - first:
+      213: -1100063869333947057
+    second: WorkTable - Tools_134
+  - first:
+      213: -4120630242563052908
+    second: WorkTable - Tools_135
+  - first:
+      213: -505670102052859769
+    second: WorkTable - Tools_136
+  - first:
+      213: 5525950525344882788
+    second: WorkTable - Tools_137
+  - first:
+      213: 5598592964891416885
+    second: WorkTable - Tools_138
+  - first:
+      213: 8138978679270475746
+    second: WorkTable - Tools_139
+  - first:
+      213: 2578424386581535866
+    second: WorkTable - Tools_140
+  - first:
+      213: 5481012159554084070
+    second: WorkTable - Tools_141
+  - first:
+      213: -1256140931930406305
+    second: WorkTable - Tools_142
+  - first:
+      213: 5306782160059552755
+    second: WorkTable - Tools_143
+  - first:
+      213: -2979864911199129980
+    second: WorkTable - Tools_144
+  - first:
+      213: 5555783823179848936
+    second: WorkTable - Tools_145
+  - first:
+      213: -7137327611816979308
+    second: WorkTable - Tools_146
+  - first:
+      213: 8236632080546332142
+    second: WorkTable - Tools_147
+  - first:
+      213: 8578717512648818589
+    second: WorkTable - Tools_148
+  - first:
+      213: -8168182897613174089
+    second: WorkTable - Tools_149
+  - first:
+      213: 2809717276542341399
+    second: WorkTable - Tools_150
+  - first:
+      213: 2075004472221295857
+    second: WorkTable - Tools_151
+  - first:
+      213: -753282109176556109
+    second: WorkTable - Tools_152
+  - first:
+      213: -6896266147333546829
+    second: WorkTable - Tools_153
+  - first:
+      213: 1132156064810114523
+    second: WorkTable - Tools_154
+  - first:
+      213: 7301622068450357102
+    second: WorkTable - Tools_155
+  - first:
+      213: 6729964786189610585
+    second: WorkTable - Tools_156
+  - first:
+      213: -2953566872580714805
+    second: WorkTable - Tools_157
+  - first:
+      213: 7549626477332434383
+    second: WorkTable - Tools_158
+  - first:
+      213: -5018904594025781049
+    second: WorkTable - Tools_159
+  - first:
+      213: 1994232705076970392
+    second: WorkTable - Tools_160
+  - first:
+      213: 6001954038793047825
+    second: WorkTable - Tools_161
+  - first:
+      213: 2585816600034177378
+    second: WorkTable - Tools_162
+  - first:
+      213: 8607140638188495153
+    second: WorkTable - Tools_163
+  - first:
+      213: -6622180365212143923
+    second: WorkTable - Tools_164
+  - first:
+      213: 3337087360143045185
+    second: WorkTable - Tools_165
+  - first:
+      213: 2659012277556900944
+    second: WorkTable - Tools_166
+  - first:
+      213: 3064379454785431206
+    second: WorkTable - Tools_167
+  - first:
+      213: 4293855564500497500
+    second: WorkTable - Tools_168
+  - first:
+      213: 264631267672511588
+    second: WorkTable - Tools_169
+  - first:
+      213: 7794352671947255470
+    second: WorkTable - Tools_170
+  - first:
+      213: -4116752050105389626
+    second: WorkTable - Tools_171
+  - first:
+      213: -624184836047026474
+    second: WorkTable - Tools_172
+  - first:
+      213: -7416103078439221537
+    second: WorkTable - Tools_173
+  - first:
+      213: 6633647036132800770
+    second: WorkTable - Tools_174
+  - first:
+      213: -632129822191116032
+    second: WorkTable - Tools_175
+  - first:
+      213: -2553399248906934030
+    second: WorkTable - Tools_176
+  - first:
+      213: -5160346732810235328
+    second: WorkTable - Tools_177
+  - first:
+      213: 5748966043847964082
+    second: WorkTable - Tools_178
+  - first:
+      213: -1140712570626236555
+    second: WorkTable - Tools_179
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WorkTable - Tools_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 240
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e5f923d82bc2610800000000000000
+      internalID: 1597848287319121517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 240
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00adfcb04e2a7260800000000000000
+      internalID: 7096035018459160586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 242
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3363686f41cc2ea0800000000000000
+      internalID: -5896125265336900803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 242
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd2fe7470d711f70800000000000000
+      internalID: 9156236987646029273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 242
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4b457203888e770800000000000000
+      internalID: 8640305625509967073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 242
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3476611c56052f010800000000000000
+      internalID: 1221126846932215619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 243
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beba20bd1ac7ef340800000000000000
+      internalID: 4899490479231642603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66968bff50baca40800000000000000
+      internalID: 5389313830390503022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 244
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8c2ec973aa30da0800000000000000
+      internalID: -5979748724385855324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 242
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2295f47970ccec0800000000000000
+      internalID: -3545450460194725208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 244
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385b8b8ecfc65eef0800000000000000
+      internalID: -79537584917138045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 240
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6bc6757ed9c2220800000000000000
+      internalID: 2462516713194567395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 223
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfc7f3d5151f8d80800000000000000
+      internalID: -8246349209197359180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 191
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828aeb70ebc1cbb70800000000000000
+      internalID: 8916032964786038824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 225
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51783f068eba8250800000000000000
+      internalID: 5947775740886413658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 241
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23880a8f0d8b5c80800000000000000
+      internalID: -8332911587639131349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 17
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669056333a0197eb0800000000000000
+      internalID: -4721724441193281178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 207
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e235fdfdc79235ee0800000000000000
+      internalID: -1273628653307079890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 225
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc5d27385fca4540800000000000000
+      internalID: 4993031114683407542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 225
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cabe2da028acd30800000000000000
+      internalID: 4452514164609100904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 225
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea7f9738d8477580800000000000000
+      internalID: -8829508450953233682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 225
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4602e40c84230f1c0800000000000000
+      internalID: -4472019141933522844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 229
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6a2ad764a3760f0800000000000000
+      internalID: -1123865507575716130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0291344cbdccec510800000000000000
+      internalID: 1571418564261517600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 224
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc5b79e71f4d98b0800000000000000
+      internalID: -5143868235267220233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 226
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbda3dc76652d9db0800000000000000
+      internalID: -4783626107086459459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 226
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062192fab72e96eb0800000000000000
+      internalID: -4725997313101065632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 223
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5783df63d6b1dedf0800000000000000
+      internalID: -149433056745408395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_28
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 230
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6616fb55e6a8acac0800000000000000
+      internalID: -3834099926262914714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 211
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd14b543f73f4020800000000000000
+      internalID: 2328141050359848409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_30
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 211
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aea953f46b292610800000000000000
+      internalID: 1596855255459016354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 209
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405bc77b3d9fb13d0800000000000000
+      internalID: -3234717219623750396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_32
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 209
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb041a9744b4d60a0800000000000000
+      internalID: -6886765497709150017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 213
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341b82adb5e97c300800000000000000
+      internalID: 272360419818516803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 179
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d0bb16cabb4c610800000000000000
+      internalID: 1640642513318120725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 210
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff778cc1a4abf36a0800000000000000
+      internalID: -6467245712407496705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_36
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 210
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da82c327f6408190800000000000000
+      internalID: -7962286113920218411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 210
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a39c577cd766070800000000000000
+      internalID: 8099299275500501567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 196
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447898a52e28c1a40800000000000000
+      internalID: 5340287166847747908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 191
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a577651af20655ea0800000000000000
+      internalID: -5884691580403157158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 210
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1165ec15bb85b5e00800000000000000
+      internalID: 1034518100966266385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_41
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 210
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52919ca475d68d740800000000000000
+      internalID: 5177007993346660645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_42
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 210
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9ed7e6aacb0f180800000000000000
+      internalID: -9083553008222082616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_43
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 193
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c369ac8e34609f100800000000000000
+      internalID: 142151751977047612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_44
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 193
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b39673de9f46100800000000000000
+      internalID: 100479888941202309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 193
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88323845bfab23820800000000000000
+      internalID: 2896583098970088328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 193
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e192a85fa505e90800000000000000
+      internalID: -7039026206948647390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_47
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 193
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791337701202baa70800000000000000
+      internalID: 8839194019875729815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 179
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ba6b7237dc9f0d0800000000000000
+      internalID: -3388451350148371703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_49
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 197
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e625804c3c12bac0800000000000000
+      internalID: -3840976487087528219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_50
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbac7d08f68a46620800000000000000
+      internalID: 2766521267968789183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_51
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 194
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718f5aece04e8a040800000000000000
+      internalID: 4659224566762436631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 191
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1788748fae0b5e50800000000000000
+      internalID: 6799044209450452763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_53
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 194
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cec9ffdb33b9ef0800000000000000
+      internalID: -100429675555394454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 177
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ecbce97c0501f80800000000000000
+      internalID: -8137915708365615509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_55
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 179
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44e59bc75fc0e860800000000000000
+      internalID: 7557268150712394826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_56
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 177
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773ba669676b3e110800000000000000
+      internalID: 1289074538804065143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_57
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 176
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea7bd1bc5b786520800000000000000
+      internalID: 2695540015032400609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 127
+        width: 14
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969ee7471ff00d070800000000000000
+      internalID: 8129014857119754601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_59
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 179
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763cd8d134ae3a7a0800000000000000
+      internalID: -6366987874192211097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_60
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 178
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e346002346845c090800000000000000
+      internalID: -8014920366663113666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_61
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 178
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56881bc2783002170800000000000000
+      internalID: 8151519204645898341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_62
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 159
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9c767e07b3ee3d0800000000000000
+      internalID: -3175535331144906267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_63
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 178
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54246b33e5996030800000000000000
+      internalID: 3488484189561693278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_64
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 17
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568a665d1f76ae8b0800000000000000
+      internalID: -5122167337815463835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 159
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7333c4a34bf4eec0800000000000000
+      internalID: -3538427139260730501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b077569916ec200800000000000000
+      internalID: 202206344738441988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_67
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 178
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d346651a32677f0800000000000000
+      internalID: -615265123243377330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd59f2516080c5190800000000000000
+      internalID: -7972488418134354465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b78810f729d3080800000000000000
+      internalID: -9206040989091202169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 163
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9beaa77655ae260800000000000000
+      internalID: 7127603263195494899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_71
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 161
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1233e6e1d6f37250800000000000000
+      internalID: 5941363714814063130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 160
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded3731c2dcfc75c0800000000000000
+      internalID: -4216217169010672147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_73
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 145
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c409683153beeba80800000000000000
+      internalID: -8449057237707091892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_74
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 151
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2658863b8723103f0800000000000000
+      internalID: -936411753528916638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_75
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 165
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b387bbd40e182d190800000000000000
+      internalID: -7939140392723974085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_76
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d56f436058ec2bf0800000000000000
+      internalID: -347647639253195305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_77
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 164
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d986010f16e7d50800000000000000
+      internalID: 6736929776288177504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_78
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce527b68388ddc7a0800000000000000
+      internalID: -6355185439737436692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_79
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 149
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8fcb36d02c5dc80800000000000000
+      internalID: -8298513375596578571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_80
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47987f730f0b02a40800000000000000
+      internalID: 5341463703839017332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_81
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 144
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f27751335f41ed20800000000000000
+      internalID: 3306010820195349235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_82
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 151
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3930149b782cdc610800000000000000
+      internalID: 1643183327244518291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_83
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 134
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f604b669d432795e0800000000000000
+      internalID: -1903013501397680017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_84
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 148
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c04fd5bcf925fed0800000000000000
+      internalID: -2380950662635634494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_85
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 143
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa624b120d0d6030800000000000000
+      internalID: 3489459588980435616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358b74965d5c87cc0800000000000000
+      internalID: -3713000372381960109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_87
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 129
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683a00e3ed6f055f0800000000000000
+      internalID: -769844101896952954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_88
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e1ed00b7a472e30800000000000000
+      internalID: 4478630246599237159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_89
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 128
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6dfa0b94dcbcef0800000000000000
+      internalID: -86750051422972171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_90
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 130
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab99d483bf41436f0800000000000000
+      internalID: -705916172376368710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_91
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 135
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9021de4267d0aee0800000000000000
+      internalID: -1251763879179902822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_92
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 111
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6e40cbe306a7e60800000000000000
+      internalID: 7960781113889449648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_93
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 127
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013d92f99fcddec10800000000000000
+      internalID: 2084565167217693456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_94
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 127
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966d223321d897290800000000000000
+      internalID: -7892121762683234711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_95
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 127
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23993ad41d8d255c0800000000000000
+      internalID: -4228078706685142734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_96
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 112
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d656698e54c67ced0800000000000000
+      internalID: -2393825629413415571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_97
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 112
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b66d365888a941a0800000000000000
+      internalID: -6824738456787392846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_98
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 114
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969f1d6a2bac82420800000000000000
+      internalID: 2605555253085600105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_99
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 114
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afe3ca776ad20240800000000000000
+      internalID: 4756604294432812960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_100
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 114
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073c40a61e0bdcc90800000000000000
+      internalID: -7147862551374281872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_101
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 114
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985be61afd0090090800000000000000
+      internalID: -8067916296971438711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_102
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 115
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaf07f64daff9770800000000000000
+      internalID: 8619884002120104638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 102
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ce5f0a198013a40800000000000000
+      internalID: 5346063654229240866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_104
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4665e521cc371bcd0800000000000000
+      internalID: -2544124994168924572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_105
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 119
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355aba8c00a495b40800000000000000
+      internalID: 5429452192998991187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 17
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98ebe2188f09a910800000000000000
+      internalID: 1849026199119718555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_107
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 79
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2e96c54a607ffd0800000000000000
+      internalID: -2308368981009243438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_108
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 97
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386669a20634735d0800000000000000
+      internalID: -3082921339601394045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_109
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 97
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c229ae94738370580800000000000000
+      internalID: -8861051931713695188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_110
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 97
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9ee82315fea3260800000000000000
+      internalID: 7078232896385771983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_111
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 97
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1120abe8b7e92300800000000000000
+      internalID: 227968037572059421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 101
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaeef919d68e40d0800000000000000
+      internalID: -3436661198634947893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_113
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639db86beff62e020800000000000000
+      internalID: 2369579493725296950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_114
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 84
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95767c177eae42c90800000000000000
+      internalID: -7195368024863971495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_115
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 83
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d037a41acee03dc20800000000000000
+      internalID: 3229941767235859213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_116
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 83
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d059b149373d570800000000000000
+      internalID: 8490256802478624073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_117
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 81
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e2160da179fa9c0800000000000000
+      internalID: -3913743409740698064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_118
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 81
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0fb1a48b194e100800000000000000
+      internalID: 136394109431312570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 85
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98acc526ed4346ae0800000000000000
+      internalID: -1557061441425716599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_120
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 51
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53319cce8f6157590800000000000000
+      internalID: -7677204731402841291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_121
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 80
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846159de9e19ae090800000000000000
+      internalID: -8004424953798257080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_122
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 80
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b95be2f8c49c8370800000000000000
+      internalID: 8326193401891084728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_123
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 86
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144d498498e4fecf0800000000000000
+      internalID: -220871505182665663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_124
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 65
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50063c343296eab0800000000000000
+      internalID: -4979131584965377956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_125
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 65
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3a96545a0b42570800000000000000
+      internalID: 8441065825479795685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_126
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 65
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d309dcea06450220800000000000000
+      internalID: 2451442584910365648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_127
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 65
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8308b386e78dee300800000000000000
+      internalID: 283401863997128760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_128
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 65
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e4bbce973993cf0800000000000000
+      internalID: -272024150607180253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_129
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 51
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb44b85f415582f20800000000000000
+      internalID: 3398059467358291132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_130
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 69
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaeb9a8fafddc18b0800000000000000
+      internalID: -5180021401399476566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_131
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 67
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ecf4f17c2423770800000000000000
+      internalID: 8589000862340206130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_132
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 67
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302980efb418329b0800000000000000
+      internalID: -5106095389123505661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_133
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 65
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cef5152e5d04b50800000000000000
+      internalID: 6575490623965490230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_134
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 49
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dbb1e3db9cbb0f0800000000000000
+      internalID: -1100063869333947057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_135
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 51
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a2c4d50a490d6c0800000000000000
+      internalID: -4120630242563052908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_136
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 49
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7809a99a8bf7bf8f0800000000000000
+      internalID: -505670102052859769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_137
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 48
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460a09d99be10bc40800000000000000
+      internalID: 5525950525344882788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_138
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 14
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5399a5293a232bd40800000000000000
+      internalID: 5598592964891416885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_139
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e705649cf573f070800000000000000
+      internalID: 8138978679270475746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_140
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 47
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c956a815768c320800000000000000
+      internalID: 2578424386581535866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_141
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 47
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec51dbf487701c40800000000000000
+      internalID: 5481012159554084070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_142
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 47
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52c57c4a7a419ee0800000000000000
+      internalID: -1256140931930406305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_143
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3dabe024a75a940800000000000000
+      internalID: 5306782160059552755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_144
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 47
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e2359b6a465a6d0800000000000000
+      internalID: -2979864911199129980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_145
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 47
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec1f7d83fb1a1d40800000000000000
+      internalID: 5555783823179848936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494df0c2a5e13fc90800000000000000
+      internalID: -7137327611816979308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_147
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 35
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedfc8adc356e4270800000000000000
+      internalID: 8236632080546332142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_148
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 33
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ffad1302abd0770800000000000000
+      internalID: 8578717512648818589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_149
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 32
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba88577ee8c4ae80800000000000000
+      internalID: -8168182897613174089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_150
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 17
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711959bf9fe1ef620800000000000000
+      internalID: 2809717276542341399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_151
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 23
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4e81ad295ebcc10800000000000000
+      internalID: 2075004472221295857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_152
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 37
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5dfdaa9edcb85f0800000000000000
+      internalID: -753282109176556109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_153
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 31
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcd1ab1a7a8b40a0800000000000000
+      internalID: -6896266147333546829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_154
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 31
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd9f4941f936bf00800000000000000
+      internalID: 1132156064810114523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_155
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 37
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fe22ae592945560800000000000000
+      internalID: 7301622068450357102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_156
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 36
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e28bfe053a56d50800000000000000
+      internalID: 6729964786189610585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_157
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 31
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce077bf392d207d0800000000000000
+      internalID: -2953566872580714805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_158
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd88401849a5c860800000000000000
+      internalID: 7549626477332434383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_159
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8648fecd4495ab0800000000000000
+      internalID: -5018904594025781049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_160
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 17
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89344915410fcab10800000000000000
+      internalID: 1994232705076970392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_161
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 21
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f0b7806693b4350800000000000000
+      internalID: 6001954038793047825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_162
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261785b5f7aa2e320800000000000000
+      internalID: 2585816600034177378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_163
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 16
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131ed0fcec4b27770800000000000000
+      internalID: 8607140638188495153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_164
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcea6fc2b0a4914a0800000000000000
+      internalID: -6622180365212143923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_165
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142b5cdf547bf4e20800000000000000
+      internalID: 3337087360143045185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_166
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0547e211495b6e420800000000000000
+      internalID: 2659012277556900944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_167
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6ad7bd0ecd68a20800000000000000
+      internalID: 3064379454785431206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_168
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54f2e6d2e6d69b30800000000000000
+      internalID: 4293855564500497500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_169
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464d4126cb82ca300800000000000000
+      internalID: 264631267672511588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_170
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae6889757a1b2c60800000000000000
+      internalID: 7794352671947255470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_171
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd6b1962db5ed6c0800000000000000
+      internalID: -4116752050105389626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_172
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 7
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d64b3dd2337657f0800000000000000
+      internalID: -624184836047026474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_173
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd603f7da85b41990800000000000000
+      internalID: -7416103078439221537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_174
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209b40235d27f0c50800000000000000
+      internalID: 6633647036132800770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_175
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0012e50a6493a37f0800000000000000
+      internalID: -632129822191116032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_176
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8272f59e0809cd0800000000000000
+      internalID: -2553399248906934030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_177
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0429ff8bcf3c268b0800000000000000
+      internalID: -5160346732810235328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_178
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b53755582e68cf40800000000000000
+      internalID: 5748966043847964082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkTable - Tools_179
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f1005f5ff5b20f0800000000000000
+      internalID: -1140712570626236555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WorkTable - Tools_0: 1597848287319121517
+      WorkTable - Tools_1: 7096035018459160586
+      WorkTable - Tools_10: -79537584917138045
+      WorkTable - Tools_100: -7147862551374281872
+      WorkTable - Tools_101: -8067916296971438711
+      WorkTable - Tools_102: 8619884002120104638
+      WorkTable - Tools_103: 5346063654229240866
+      WorkTable - Tools_104: -2544124994168924572
+      WorkTable - Tools_105: 5429452192998991187
+      WorkTable - Tools_106: 1849026199119718555
+      WorkTable - Tools_107: -2308368981009243438
+      WorkTable - Tools_108: -3082921339601394045
+      WorkTable - Tools_109: -8861051931713695188
+      WorkTable - Tools_11: 2462516713194567395
+      WorkTable - Tools_110: 7078232896385771983
+      WorkTable - Tools_111: 227968037572059421
+      WorkTable - Tools_112: -3436661198634947893
+      WorkTable - Tools_113: 2369579493725296950
+      WorkTable - Tools_114: -7195368024863971495
+      WorkTable - Tools_115: 3229941767235859213
+      WorkTable - Tools_116: 8490256802478624073
+      WorkTable - Tools_117: -3913743409740698064
+      WorkTable - Tools_118: 136394109431312570
+      WorkTable - Tools_119: -1557061441425716599
+      WorkTable - Tools_12: -8246349209197359180
+      WorkTable - Tools_120: -7677204731402841291
+      WorkTable - Tools_121: -8004424953798257080
+      WorkTable - Tools_122: 8326193401891084728
+      WorkTable - Tools_123: -220871505182665663
+      WorkTable - Tools_124: -4979131584965377956
+      WorkTable - Tools_125: 8441065825479795685
+      WorkTable - Tools_126: 2451442584910365648
+      WorkTable - Tools_127: 283401863997128760
+      WorkTable - Tools_128: -272024150607180253
+      WorkTable - Tools_129: 3398059467358291132
+      WorkTable - Tools_13: 8916032964786038824
+      WorkTable - Tools_130: -5180021401399476566
+      WorkTable - Tools_131: 8589000862340206130
+      WorkTable - Tools_132: -5106095389123505661
+      WorkTable - Tools_133: 6575490623965490230
+      WorkTable - Tools_134: -1100063869333947057
+      WorkTable - Tools_135: -4120630242563052908
+      WorkTable - Tools_136: -505670102052859769
+      WorkTable - Tools_137: 5525950525344882788
+      WorkTable - Tools_138: 5598592964891416885
+      WorkTable - Tools_139: 8138978679270475746
+      WorkTable - Tools_14: 5947775740886413658
+      WorkTable - Tools_140: 2578424386581535866
+      WorkTable - Tools_141: 5481012159554084070
+      WorkTable - Tools_142: -1256140931930406305
+      WorkTable - Tools_143: 5306782160059552755
+      WorkTable - Tools_144: -2979864911199129980
+      WorkTable - Tools_145: 5555783823179848936
+      WorkTable - Tools_146: -7137327611816979308
+      WorkTable - Tools_147: 8236632080546332142
+      WorkTable - Tools_148: 8578717512648818589
+      WorkTable - Tools_149: -8168182897613174089
+      WorkTable - Tools_15: -8332911587639131349
+      WorkTable - Tools_150: 2809717276542341399
+      WorkTable - Tools_151: 2075004472221295857
+      WorkTable - Tools_152: -753282109176556109
+      WorkTable - Tools_153: -6896266147333546829
+      WorkTable - Tools_154: 1132156064810114523
+      WorkTable - Tools_155: 7301622068450357102
+      WorkTable - Tools_156: 6729964786189610585
+      WorkTable - Tools_157: -2953566872580714805
+      WorkTable - Tools_158: 7549626477332434383
+      WorkTable - Tools_159: -5018904594025781049
+      WorkTable - Tools_16: -4721724441193281178
+      WorkTable - Tools_160: 1994232705076970392
+      WorkTable - Tools_161: 6001954038793047825
+      WorkTable - Tools_162: 2585816600034177378
+      WorkTable - Tools_163: 8607140638188495153
+      WorkTable - Tools_164: -6622180365212143923
+      WorkTable - Tools_165: 3337087360143045185
+      WorkTable - Tools_166: 2659012277556900944
+      WorkTable - Tools_167: 3064379454785431206
+      WorkTable - Tools_168: 4293855564500497500
+      WorkTable - Tools_169: 264631267672511588
+      WorkTable - Tools_17: -1273628653307079890
+      WorkTable - Tools_170: 7794352671947255470
+      WorkTable - Tools_171: -4116752050105389626
+      WorkTable - Tools_172: -624184836047026474
+      WorkTable - Tools_173: -7416103078439221537
+      WorkTable - Tools_174: 6633647036132800770
+      WorkTable - Tools_175: -632129822191116032
+      WorkTable - Tools_176: -2553399248906934030
+      WorkTable - Tools_177: -5160346732810235328
+      WorkTable - Tools_178: 5748966043847964082
+      WorkTable - Tools_179: -1140712570626236555
+      WorkTable - Tools_18: 4993031114683407542
+      WorkTable - Tools_19: 4452514164609100904
+      WorkTable - Tools_2: -5896125265336900803
+      WorkTable - Tools_20: -8829508450953233682
+      WorkTable - Tools_21: -4472019141933522844
+      WorkTable - Tools_22: -1123865507575716130
+      WorkTable - Tools_23: 1571418564261517600
+      WorkTable - Tools_24: -5143868235267220233
+      WorkTable - Tools_25: -4783626107086459459
+      WorkTable - Tools_26: -4725997313101065632
+      WorkTable - Tools_27: -149433056745408395
+      WorkTable - Tools_28: -3834099926262914714
+      WorkTable - Tools_29: 2328141050359848409
+      WorkTable - Tools_3: 9156236987646029273
+      WorkTable - Tools_30: 1596855255459016354
+      WorkTable - Tools_31: -3234717219623750396
+      WorkTable - Tools_32: -6886765497709150017
+      WorkTable - Tools_33: 272360419818516803
+      WorkTable - Tools_34: 1640642513318120725
+      WorkTable - Tools_35: -6467245712407496705
+      WorkTable - Tools_36: -7962286113920218411
+      WorkTable - Tools_37: 8099299275500501567
+      WorkTable - Tools_38: 5340287166847747908
+      WorkTable - Tools_39: -5884691580403157158
+      WorkTable - Tools_4: 8640305625509967073
+      WorkTable - Tools_40: 1034518100966266385
+      WorkTable - Tools_41: 5177007993346660645
+      WorkTable - Tools_42: -9083553008222082616
+      WorkTable - Tools_43: 142151751977047612
+      WorkTable - Tools_44: 100479888941202309
+      WorkTable - Tools_45: 2896583098970088328
+      WorkTable - Tools_46: -7039026206948647390
+      WorkTable - Tools_47: 8839194019875729815
+      WorkTable - Tools_48: -3388451350148371703
+      WorkTable - Tools_49: -3840976487087528219
+      WorkTable - Tools_5: 1221126846932215619
+      WorkTable - Tools_50: 2766521267968789183
+      WorkTable - Tools_51: 4659224566762436631
+      WorkTable - Tools_52: 6799044209450452763
+      WorkTable - Tools_53: -100429675555394454
+      WorkTable - Tools_54: -8137915708365615509
+      WorkTable - Tools_55: 7557268150712394826
+      WorkTable - Tools_56: 1289074538804065143
+      WorkTable - Tools_57: 2695540015032400609
+      WorkTable - Tools_58: 8129014857119754601
+      WorkTable - Tools_59: -6366987874192211097
+      WorkTable - Tools_6: 4899490479231642603
+      WorkTable - Tools_60: -8014920366663113666
+      WorkTable - Tools_61: 8151519204645898341
+      WorkTable - Tools_62: -3175535331144906267
+      WorkTable - Tools_63: 3488484189561693278
+      WorkTable - Tools_64: -5122167337815463835
+      WorkTable - Tools_65: -3538427139260730501
+      WorkTable - Tools_66: 202206344738441988
+      WorkTable - Tools_67: -615265123243377330
+      WorkTable - Tools_68: -7972488418134354465
+      WorkTable - Tools_69: -9206040989091202169
+      WorkTable - Tools_7: 5389313830390503022
+      WorkTable - Tools_70: 7127603263195494899
+      WorkTable - Tools_71: 5941363714814063130
+      WorkTable - Tools_72: -4216217169010672147
+      WorkTable - Tools_73: -8449057237707091892
+      WorkTable - Tools_74: -936411753528916638
+      WorkTable - Tools_75: -7939140392723974085
+      WorkTable - Tools_76: -347647639253195305
+      WorkTable - Tools_77: 6736929776288177504
+      WorkTable - Tools_78: -6355185439737436692
+      WorkTable - Tools_79: -8298513375596578571
+      WorkTable - Tools_8: -5979748724385855324
+      WorkTable - Tools_80: 5341463703839017332
+      WorkTable - Tools_81: 3306010820195349235
+      WorkTable - Tools_82: 1643183327244518291
+      WorkTable - Tools_83: -1903013501397680017
+      WorkTable - Tools_84: -2380950662635634494
+      WorkTable - Tools_85: 3489459588980435616
+      WorkTable - Tools_86: -3713000372381960109
+      WorkTable - Tools_87: -769844101896952954
+      WorkTable - Tools_88: 4478630246599237159
+      WorkTable - Tools_89: -86750051422972171
+      WorkTable - Tools_9: -3545450460194725208
+      WorkTable - Tools_90: -705916172376368710
+      WorkTable - Tools_91: -1251763879179902822
+      WorkTable - Tools_92: 7960781113889449648
+      WorkTable - Tools_93: 2084565167217693456
+      WorkTable - Tools_94: -7892121762683234711
+      WorkTable - Tools_95: -4228078706685142734
+      WorkTable - Tools_96: -2393825629413415571
+      WorkTable - Tools_97: -6824738456787392846
+      WorkTable - Tools_98: 2605555253085600105
+      WorkTable - Tools_99: 4756604294432812960
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

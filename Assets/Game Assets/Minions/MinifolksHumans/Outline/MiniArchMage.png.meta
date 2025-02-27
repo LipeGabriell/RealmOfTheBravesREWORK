@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: 82b5e0d069b59294396d5a08fbc5b465
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8958617834977694253
+    second: MiniArchMage_0
+  - first:
+      213: 598554110101874573
+    second: MiniArchMage_1
+  - first:
+      213: -972406867396202422
+    second: MiniArchMage_2
+  - first:
+      213: -2754129226409533458
+    second: MiniArchMage_3
+  - first:
+      213: 2087332804130394367
+    second: MiniArchMage_4
+  - first:
+      213: -1263712023183224260
+    second: MiniArchMage_5
+  - first:
+      213: 3523425503515228926
+    second: MiniArchMage_6
+  - first:
+      213: 2267005202674180422
+    second: MiniArchMage_7
+  - first:
+      213: 8713978618393400536
+    second: MiniArchMage_8
+  - first:
+      213: -1046735634466143355
+    second: MiniArchMage_9
+  - first:
+      213: 8316016561956409782
+    second: MiniArchMage_10
+  - first:
+      213: -1315562903629708769
+    second: MiniArchMage_11
+  - first:
+      213: 3804396193633374388
+    second: MiniArchMage_12
+  - first:
+      213: -8869319453876079683
+    second: MiniArchMage_13
+  - first:
+      213: -8637032629746448010
+    second: MiniArchMage_14
+  - first:
+      213: -7173006550190889937
+    second: MiniArchMage_15
+  - first:
+      213: -4239990581665469493
+    second: MiniArchMage_16
+  - first:
+      213: 6213965583749909769
+    second: MiniArchMage_17
+  - first:
+      213: 8942989344509549113
+    second: MiniArchMage_18
+  - first:
+      213: -5222064411821273560
+    second: MiniArchMage_19
+  - first:
+      213: 1692720770082943501
+    second: MiniArchMage_20
+  - first:
+      213: 6510426832454031227
+    second: MiniArchMage_21
+  - first:
+      213: -7016075310954774687
+    second: MiniArchMage_22
+  - first:
+      213: 2592172088824122622
+    second: MiniArchMage_23
+  - first:
+      213: -779066290781482871
+    second: MiniArchMage_24
+  - first:
+      213: -368578976474608111
+    second: MiniArchMage_25
+  - first:
+      213: -4942949178813993476
+    second: MiniArchMage_26
+  - first:
+      213: 6407003993349505312
+    second: MiniArchMage_27
+  - first:
+      213: 3349633789834559487
+    second: MiniArchMage_28
+  - first:
+      213: -2289667196252496228
+    second: MiniArchMage_29
+  - first:
+      213: 3919571594745779558
+    second: MiniArchMage_30
+  - first:
+      213: 2909260730423975257
+    second: MiniArchMage_31
+  - first:
+      213: 3360009031246284070
+    second: MiniArchMage_32
+  - first:
+      213: 6794175745419872682
+    second: MiniArchMage_33
+  - first:
+      213: 4206106093854717580
+    second: MiniArchMage_34
+  - first:
+      213: -6156783607737885481
+    second: MiniArchMage_35
+  - first:
+      213: -8614069886427605948
+    second: MiniArchMage_36
+  - first:
+      213: -2423848916994249890
+    second: MiniArchMage_37
+  - first:
+      213: 2273026156746616356
+    second: MiniArchMage_38
+  - first:
+      213: -6023388745269839126
+    second: MiniArchMage_39
+  - first:
+      213: -3286459645008259849
+    second: MiniArchMage_40
+  - first:
+      213: -6043995131230734927
+    second: MiniArchMage_41
+  - first:
+      213: 8265125829607272329
+    second: MiniArchMage_42
+  - first:
+      213: 2383824363540870063
+    second: MiniArchMage_43
+  - first:
+      213: 6290873640103321540
+    second: MiniArchMage_44
+  - first:
+      213: -3394455160156434912
+    second: MiniArchMage_45
+  - first:
+      213: -2359651665185820694
+    second: MiniArchMage_46
+  - first:
+      213: 6856833420606962453
+    second: MiniArchMage_47
+  - first:
+      213: -7759442114297779974
+    second: MiniArchMage_48
+  - first:
+      213: 438560112674217189
+    second: MiniArchMage_49
+  - first:
+      213: -1790621916416704656
+    second: MiniArchMage_50
+  - first:
+      213: 7425113161437460530
+    second: MiniArchMage_51
+  - first:
+      213: 5029733845099267215
+    second: MiniArchMage_52
+  - first:
+      213: 8793353847678581142
+    second: MiniArchMage_53
+  - first:
+      213: 446320604052018964
+    second: MiniArchMage_54
+  - first:
+      213: 784972022610099101
+    second: MiniArchMage_55
+  - first:
+      213: 1667819501015045854
+    second: MiniArchMage_56
+  - first:
+      213: 604961695309205829
+    second: MiniArchMage_57
+  - first:
+      213: -5374264768515675505
+    second: MiniArchMage_58
+  - first:
+      213: 819499733579809797
+    second: MiniArchMage_59
+  - first:
+      213: 5892860483579715711
+    second: MiniArchMage_60
+  - first:
+      213: 5260648008577748339
+    second: MiniArchMage_61
+  - first:
+      213: -5210190285694480993
+    second: MiniArchMage_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniArchMage_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 256
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddecab3b889ca380800000000000000
+      internalID: -8958617834977694253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 256
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87e877bacd7e4800800000000000000
+      internalID: 598554110101874573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 256
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40f2bb2b115182f0800000000000000
+      internalID: -972406867396202422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 256
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef96528f0e57c9d0800000000000000
+      internalID: -2754129226409533458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 224
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0563e4022b7fc10800000000000000
+      internalID: 2087332804130394367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 224
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3216cf3c94667ee0800000000000000
+      internalID: -1263712023183224260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 224
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efab399d3d8b5e030800000000000000
+      internalID: 3523425503515228926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 224
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6416b518835067f10800000000000000
+      internalID: 2267005202674180422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 224
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d410b182654ee870800000000000000
+      internalID: 8713978618393400536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 224
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58307ed7c7f3971f0800000000000000
+      internalID: -1046735634466143355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b15da1c00d686370800000000000000
+      internalID: 8316016561956409782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 193
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f124871628e2ebde0800000000000000
+      internalID: -1315562903629708769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 192
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b09d5a7e2eebc430800000000000000
+      internalID: 3804396193633374388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 160
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db33148c2f8d9e480800000000000000
+      internalID: -8869319453876079683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 160
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679418e8598132880800000000000000
+      internalID: -8637032629746448010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 160
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24625cfb8c547c90800000000000000
+      internalID: -7173006550190889937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 160
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbe3d8c7078825c0800000000000000
+      internalID: -4239990581665469493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 160
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d8ae186c07c3650800000000000000
+      internalID: 6213965583749909769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 160
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a58954d61eb1c70800000000000000
+      internalID: 8942989344509549113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 160
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e0f2bc5108787b0800000000000000
+      internalID: -5222064411821273560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_20
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 160
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0238bc6290cd7710800000000000000
+      internalID: 1692720770082943501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 160
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77189cd5bea95a50800000000000000
+      internalID: 6510426832454031227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_22
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 160
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ff62d6da4e1ae90800000000000000
+      internalID: -7016075310954774687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 160
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc4b07e7ce39f320800000000000000
+      internalID: 2592172088824122622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 128
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9801d7116533035f0800000000000000
+      internalID: -779066290781482871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 128
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ecd8baf5b82eaf0800000000000000
+      internalID: -368578976474608111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 128
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdabf529ed176bb0800000000000000
+      internalID: -4942949178813993476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 128
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0214b1aaf204ae850800000000000000
+      internalID: 6407003993349505312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 128
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffffbba4f2a4c7e20800000000000000
+      internalID: 3349633789834559487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 128
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e5181f0d77930e0800000000000000
+      internalID: -2289667196252496228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 128
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6659880499d156630800000000000000
+      internalID: 3919571594745779558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_31
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 128
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d1aeb6835cf5820800000000000000
+      internalID: 2909260730423975257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_32
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 128
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6250a8d696621ae20800000000000000
+      internalID: 3360009031246284070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 96
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa98357e7d2c94e50800000000000000
+      internalID: 6794175745419872682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86f0db15371f5a30800000000000000
+      internalID: 4206106093854717580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 96
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcd5d5cde5be8aa0800000000000000
+      internalID: -6156783607737885481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 96
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444d71dd31da47880800000000000000
+      internalID: -8614069886427605948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_37
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 96
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ba7598042cc5ed0800000000000000
+      internalID: -2423848916994249890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 96
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ead0e1f396b8f10800000000000000
+      internalID: 2273026156746616356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 96
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeafa1679df986ca0800000000000000
+      internalID: -6023388745269839126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_40
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 96
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f450a28d562462d0800000000000000
+      internalID: -3286459645008259849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_41
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b53dca537a6f1ca0800000000000000
+      internalID: -6043995131230734927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 64
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fa5a9c620a3b270800000000000000
+      internalID: 8265125829607272329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_43
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 64
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa376cbe0ab051120800000000000000
+      internalID: 2383824363540870063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 64
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf1a35ce3cad4750800000000000000
+      internalID: 6290873640103321540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 64
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e42e4340974e0d0800000000000000
+      internalID: -3394455160156434912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefa0feff45d04fd0800000000000000
+      internalID: -2359651665185820694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 64
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bfd4fbaad582f50800000000000000
+      internalID: 6856833420606962453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 64
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af82312228ce05490800000000000000
+      internalID: -7759442114297779974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_49
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 64
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec1a905914161600800000000000000
+      internalID: 438560112674217189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_50
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 64
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ff3f8aade6627e0800000000000000
+      internalID: -1790621916416704656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_51
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 64
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238be84941d4b0760800000000000000
+      internalID: 7425113161437460530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 32
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84c6ef88443dc540800000000000000
+      internalID: 5029733845099267215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_53
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 32
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699323b3cb4480a70800000000000000
+      internalID: 8793353847678581142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_54
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41755748936a13600800000000000000
+      internalID: 446320604052018964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_55
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b7b4645e7c4ea00800000000000000
+      internalID: 784972022610099101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_56
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6987beff8452710800000000000000
+      internalID: 1667819501015045854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_57
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5419f97e471456800800000000000000
+      internalID: 604961695309205829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_58
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ae9b7caa6ca65b0800000000000000
+      internalID: -5374264768515675505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_59
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5044d817aa27f5b00800000000000000
+      internalID: 819499733579809797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_60
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70a4ba5365a7c150800000000000000
+      internalID: 5892860483579715711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_61
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d84afdd73910940800000000000000
+      internalID: 5260648008577748339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniArchMage_62
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d4df83a8fa1b7b0800000000000000
+      internalID: -5210190285694480993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MiniArchMage_0: -8958617834977694253
+      MiniArchMage_1: 598554110101874573
+      MiniArchMage_10: 8316016561956409782
+      MiniArchMage_11: -1315562903629708769
+      MiniArchMage_12: 3804396193633374388
+      MiniArchMage_13: -8869319453876079683
+      MiniArchMage_14: -8637032629746448010
+      MiniArchMage_15: -7173006550190889937
+      MiniArchMage_16: -4239990581665469493
+      MiniArchMage_17: 6213965583749909769
+      MiniArchMage_18: 8942989344509549113
+      MiniArchMage_19: -5222064411821273560
+      MiniArchMage_2: -972406867396202422
+      MiniArchMage_20: 1692720770082943501
+      MiniArchMage_21: 6510426832454031227
+      MiniArchMage_22: -7016075310954774687
+      MiniArchMage_23: 2592172088824122622
+      MiniArchMage_24: -779066290781482871
+      MiniArchMage_25: -368578976474608111
+      MiniArchMage_26: -4942949178813993476
+      MiniArchMage_27: 6407003993349505312
+      MiniArchMage_28: 3349633789834559487
+      MiniArchMage_29: -2289667196252496228
+      MiniArchMage_3: -2754129226409533458
+      MiniArchMage_30: 3919571594745779558
+      MiniArchMage_31: 2909260730423975257
+      MiniArchMage_32: 3360009031246284070
+      MiniArchMage_33: 6794175745419872682
+      MiniArchMage_34: 4206106093854717580
+      MiniArchMage_35: -6156783607737885481
+      MiniArchMage_36: -8614069886427605948
+      MiniArchMage_37: -2423848916994249890
+      MiniArchMage_38: 2273026156746616356
+      MiniArchMage_39: -6023388745269839126
+      MiniArchMage_4: 2087332804130394367
+      MiniArchMage_40: -3286459645008259849
+      MiniArchMage_41: -6043995131230734927
+      MiniArchMage_42: 8265125829607272329
+      MiniArchMage_43: 2383824363540870063
+      MiniArchMage_44: 6290873640103321540
+      MiniArchMage_45: -3394455160156434912
+      MiniArchMage_46: -2359651665185820694
+      MiniArchMage_47: 6856833420606962453
+      MiniArchMage_48: -7759442114297779974
+      MiniArchMage_49: 438560112674217189
+      MiniArchMage_5: -1263712023183224260
+      MiniArchMage_50: -1790621916416704656
+      MiniArchMage_51: 7425113161437460530
+      MiniArchMage_52: 5029733845099267215
+      MiniArchMage_53: 8793353847678581142
+      MiniArchMage_54: 446320604052018964
+      MiniArchMage_55: 784972022610099101
+      MiniArchMage_56: 1667819501015045854
+      MiniArchMage_57: 604961695309205829
+      MiniArchMage_58: -5374264768515675505
+      MiniArchMage_59: 819499733579809797
+      MiniArchMage_6: 3523425503515228926
+      MiniArchMage_60: 5892860483579715711
+      MiniArchMage_61: 5260648008577748339
+      MiniArchMage_62: -5210190285694480993
+      MiniArchMage_7: 2267005202674180422
+      MiniArchMage_8: 8713978618393400536
+      MiniArchMage_9: -1046735634466143355
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
