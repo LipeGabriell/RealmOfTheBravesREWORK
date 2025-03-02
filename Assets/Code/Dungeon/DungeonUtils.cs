@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using Random = UnityEngine.Random;
+
 public static class DungeonUtils
 {
     public static Directions GetOpositeDoor(this Directions referenceDoor)
@@ -11,20 +12,20 @@ public static class DungeonUtils
             Directions.Down => Directions.Up,
             Directions.Left => Directions.Right,
             Directions.Right => Directions.Left,
-            _ => throw new ArgumentException("Error on getting Oposite Door"),
+            _ => throw new ArgumentException("Error on getting Oposite Door")
         };
     }
 
     public static T GetRandomElement<T>(this T[] element)
     {
-        if (element.Length == 0) return default;
+        if (element.Length == 0) throw new Exception("element zero");
 
         return element[Random.Range(0, element.Length)];
     }
 
- public static T GetRandomElement<T>(this List<T> element)
+    public static T GetRandomElement<T>(this List<T> element)
     {
-        if (element.Count == 0) return default;
+        if (element.Count == 0) throw new Exception("element zero");
 
         return element[Random.Range(0, element.Count)];
     }
@@ -42,5 +43,4 @@ public static class DungeonUtils
         var index = Random.Range(0, element.Count);
         return (element[index], index);
     }
-
 }

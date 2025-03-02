@@ -1,12 +1,12 @@
 using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using UnityEngine;
-using System.Collections.Generic;
-
 #if UNITY_EDITOR
 using UnityEditor;
 #endif
+
 [CreateAssetMenu(fileName = "Dungeons Data", menuName = "Create Dungeons Database", order = 0)]
 public class DungeonData : ScriptableObject
 {
@@ -22,12 +22,12 @@ public class DungeonData : ScriptableObject
     public void UpdateDatabase()
     {
         var filesNames = Directory.GetFiles("Assets/Dungeons", "*.prefab", SearchOption.AllDirectories);
-        
-        RoomPrefabs = new();
-        RightRooms = new();
-        LeftRooms = new();
-        UpRooms = new();
-        DownRooms = new();
+
+        RoomPrefabs = new List<Room>();
+        RightRooms = new List<Room>();
+        LeftRooms = new List<Room>();
+        UpRooms = new List<Room>();
+        DownRooms = new List<Room>();
 
         foreach (var file in filesNames)
         {
@@ -35,16 +35,13 @@ public class DungeonData : ScriptableObject
             RoomPrefabs.Add(room);
 
             foreach (var door in room.availableDoors)
-            {
                 switch (door)
                 {
                     case Directions.Up: UpRooms.Add(room); break;
                     case Directions.Down: DownRooms.Add(room); break;
                     case Directions.Left: LeftRooms.Add(room); break;
                     case Directions.Right: RightRooms.Add(room); break;
-                    default: break;
                 }
-            }
         }
     }
 #endif
@@ -59,13 +56,13 @@ public class DungeonData : ScriptableObject
             Directions.Down => DownRooms.GetRandomElement(),
             Directions.Left => LeftRooms.GetRandomElement(),
             Directions.Right => RightRooms.GetRandomElement(),
-            _ => throw new InvalidOperationException("Porta não é válida, deveria ter retornado no null"),
+            _ => throw new InvalidOperationException("Porta não é válida, deveria ter retornado no null")
         };
     }
 
     public Room GetExactRoom(Directions[] directions)
     {
-        return RoomPrefabs.Where(room => room.availableDoors.OrderBy(d => d).SequenceEqual(directions.OrderBy(d => d))).ToArray().GetRandomElement();
+        return RoomPrefabs.Where(room => room.availableDoors.OrderBy(d => d).SequenceEqual(directions.OrderBy(d => d)))
+            .ToArray().GetRandomElement();
     }
-
 }

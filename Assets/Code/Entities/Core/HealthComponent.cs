@@ -4,6 +4,7 @@ public class HealthComponent : MonoBehaviour
 {
     [SerializeField] protected int maxHealth;
     protected int health;
+
     private void Awake()
     {
         health = maxHealth;
@@ -11,10 +12,11 @@ public class HealthComponent : MonoBehaviour
 
     private void Start()
     {
-
     }
 
-    private void Update() { }
+    private void Update()
+    {
+    }
 
     public virtual void TakeDamage(int damage)
     {
@@ -25,5 +27,7 @@ public class HealthComponent : MonoBehaviour
         if (health == 0) Die();
     }
 
-    protected virtual void Die() { }
+    protected virtual void Die()
+    {
+    }
 }

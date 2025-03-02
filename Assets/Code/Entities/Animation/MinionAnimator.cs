@@ -1,5 +1,5 @@
 using UnityEngine;
 
-public class EntityAnimator : MonoBehaviour {
-    
+public class EntityAnimator : MonoBehaviour
+{
 }

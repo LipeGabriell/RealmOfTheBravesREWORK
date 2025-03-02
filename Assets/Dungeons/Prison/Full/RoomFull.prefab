@@ -441,7 +441,7 @@ MonoBehaviour:
   <RoomEnemiesCost>k__BackingField: 5
   <MaxEnemyCost>k__BackingField: 2
   <MinEnemyCost>k__BackingField: 0
-  <EnemiesType>k__BackingField: 0
+  <EnemiesType>k__BackingField: 0000000003000000
   <RoomType>k__BackingField: 0
   <availableDoors>k__BackingField: 00000000010000000200000003000000
   roomCamera: {fileID: 4109581539675891470}

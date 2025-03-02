@@ -7,18 +7,21 @@ using UnityEngine;
 public class DungeonGeneration : MonoBehaviour
 {
     private const int ROOM_SPACING = 20;
+    public static readonly Dictionary<Vector2Int, Room> SpawnedRooms = new();
     [SerializeField] private int minRoomCount;
     [SerializeField] private int maxRoomCount;
-    public static readonly Dictionary<Vector2Int, Room> SpawnedRooms = new();
-    void Start()
+
+    private void Start()
     {
-        var initialRoom = InstantiateRoom(Vector2Int.zero, null);
+        var initialRoom = InstantiateRoom(Vector2Int.zero);
 
         GenerateNewRoom(Vector2Int.zero, initialRoom.availableDoors);
 
         if (SpawnedRooms.Count < minRoomCount)
         {
-            FindObjectsByType<Room>(FindObjectsInactive.Include, FindObjectsSortMode.None).ToList().ForEach((action) => Destroy(action));
+            FindObjectsByType<Room>(FindObjectsInactive.Include, FindObjectsSortMode.None)
+                .ToList()
+                .ForEach(Destroy);
             SpawnedRooms.Clear();
             Start();
             return;
@@ -27,22 +30,18 @@ public class DungeonGeneration : MonoBehaviour
         FixRooms();
 
         // GetComponent<Unity.AI.Navigation.NavMeshSurface>().BuildNavMesh();
-        GetComponent<NavMeshSurface>().BuildNavMesh();
+        // GetComponent<NavMeshSurface>().BuildNavMesh();
 
-        foreach (var room in SpawnedRooms.Values.Skip(1).SkipLast(1))
-        {
-            StartCoroutine(room.SpawnEnemies());
-        }
-
+        foreach (var room in SpawnedRooms.Values.Skip(1).SkipLast(1)) room.Spawn();
     }
 
     private void GenerateNewRoom(Vector2Int oldID, Directions[] doors)
     {
-        for (int i = 0; i < doors.Length; i++)
+        foreach (var direction in doors)
         {
             if (SpawnedRooms.Count > maxRoomCount) return;
 
-            var nextPosition = doors[i] switch
+            var nextPosition = direction switch
             {
                 Directions.Up => Vector2Int.up,
                 Directions.Down => Vector2Int.down,
@@ -55,7 +54,7 @@ public class DungeonGeneration : MonoBehaviour
 
             if (SpawnedRooms.ContainsKey(newID)) continue;
 
-            var newRoom = InstantiateRoom(newID, doors[i]);
+            var newRoom = InstantiateRoom(newID, direction);
             GenerateNewRoom(newID, newRoom.availableDoors);
         }
     }
@@ -78,21 +77,21 @@ public class DungeonGeneration : MonoBehaviour
 
             var correctRoom = DatabaseHandler.Instance.DungeonData.GetExactRoom(validDoors.ToArray());
 
-            if (correctRoom != null)
-            {
-                Destroy(currentRoom.gameObject);
-                Room newRoom = Instantiate(correctRoom, currentRoom.transform.position, Quaternion.identity, transform);
-                SpawnedRooms[position] = newRoom;
+            if (correctRoom == null) continue;
 
-            }
+            Destroy(currentRoom.gameObject);
+            var newRoom = Instantiate(correctRoom, currentRoom.transform.position, Quaternion.identity, transform);
+            SpawnedRooms[position] = newRoom;
         }
     }
 
     private Room InstantiateRoom(Vector2Int id, Directions? neededDoor = null)
     {
-        var newRoom = Instantiate(DatabaseHandler.Instance.DungeonData.GetRandomRoom(neededDoor.HasValue ? neededDoor.Value : null), new Vector2(id.x * ROOM_SPACING, id.y * ROOM_SPACING), Quaternion.identity, transform);
+        var newRoom =
+            Instantiate(
+                DatabaseHandler.Instance.DungeonData.GetRandomRoom(neededDoor),
+                new Vector2(id.x * ROOM_SPACING, id.y * ROOM_SPACING), Quaternion.identity, transform);
         SpawnedRooms.Add(id, newRoom);
         return newRoom;
     }
-
 }

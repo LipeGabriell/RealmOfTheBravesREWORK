@@ -3,34 +3,31 @@ using System.Collections;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.Events;
+using Random = UnityEngine.Random;
 
 public class Room : MonoBehaviour
 {
-    #region Room Enemies
-    [Header("Room Enemies")]
-    [field: SerializeField] public int RoomEnemiesCost { get; private set; }
-    [field: SerializeField] public int MaxEnemyCost { get; private set; }
-    [field: SerializeField] public int MinEnemyCost { get; private set; }
-    [field: SerializeField] public EntityType EnemiesType { get; private set; }
-    public int EnemiesCount { get; private set; } = 0;
-
-    #endregion
-    #region  Room Stuffs
-    [Header("Room Parts")]
-    [field: SerializeField] public Type RoomType { get; private set; }
-    [field: SerializeField] public Directions[] availableDoors { get; private set; }
-    [SerializeField] private Camera roomCamera;
-
-    [SerializeField] private Transform upDoor, downDoor, leftDoor, rightDoor;
-    #endregion
-
     public readonly UnityEvent<GameObject> OnPlayerEnter = new();
     public readonly UnityEvent<GameObject> OnPlayerLeft = new();
 
-    void Awake()
+    private void Awake()
     {
-        OnPlayerEnter.AddListener((player) => roomCamera.gameObject.SetActive(true));
-        OnPlayerLeft.AddListener((player) => roomCamera.gameObject.SetActive(false));
+        OnPlayerEnter.AddListener(player => roomCamera.gameObject.SetActive(true));
+        OnPlayerLeft.AddListener(player => roomCamera.gameObject.SetActive(false));
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+            OnPlayerEnter?.Invoke(collision.gameObject);
+        else if (collision.gameObject.CompareTag("Enemy")) EnemiesCount++;
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+            OnPlayerLeft?.Invoke(collision.gameObject);
+        else if (collision.gameObject.CompareTag("Enemy")) EnemiesCount--;
     }
 
     public Transform GetDoorPosition(Directions direction)
@@ -47,62 +44,69 @@ public class Room : MonoBehaviour
         };
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    public void Spawn()
     {
-        if (collision.gameObject.CompareTag("Player"))
-        {
-            OnPlayerEnter?.Invoke(collision.gameObject);
-        }
-        else if (collision.gameObject.CompareTag("Enemy"))
-        {
-            EnemiesCount++;
-        }
+        StartCoroutine(SpawnEnemies());
     }
 
-    void OnTriggerExit2D(Collider2D collision)
+    private IEnumerator SpawnEnemies()
     {
-        if (collision.gameObject.CompareTag("Player"))
-        {
-            OnPlayerLeft?.Invoke(collision.gameObject);
-        }
-        else if (collision.gameObject.CompareTag("Enemy"))
-        {
-            EnemiesCount--;
-        }
-    }
-
-    public IEnumerator SpawnEnemies()
-    {
-        var availableEnemies = DatabaseHandler.Instance.EntitiesData.GetEntityByType(EnemiesType).Where(Entity => Entity.CostValue >= MinEnemyCost && Entity.CostValue <= MaxEnemyCost).ToList();
+        var availableEnemies = DatabaseHandler.Instance.EntitiesData.GetEntityByType(EnemiesType).ToList();
 
         do
         {
-            var selectedEnemy = availableEnemies.GetRandomElement();
+            if (availableEnemies.Count == 0) break;
 
-            if (RoomEnemiesCost - selectedEnemy.CostValue < 0) continue;
+            var selectedEnemy = availableEnemies.GetRandomElement();
+            if (RoomEnemiesCost - selectedEnemy.CostValue < 0 || selectedEnemy.CostValue > MaxEnemyCost ||
+                selectedEnemy.CostValue < MinEnemyCost)
+            {
+                availableEnemies.Remove(selectedEnemy);
+                continue;
+            }
 
             var enemy = Instantiate(selectedEnemy, transform.position, Quaternion.identity, transform);
-
+            Debug.Log("spawned enemy: ",enemy);
             RoomEnemiesCost -= enemy.CostValue;
 
-            OnPlayerEnter.AddListener((player) =>
+            OnPlayerEnter.AddListener(player =>
             {
-                if (enemy)
-                {
-                    enemy.Target = player;
-                }
+                if (enemy) enemy.Target = player;
             });
 
 
             yield return null;
-        } while (RoomEnemiesCost > 0);
+        } while (RoomEnemiesCost > 0 || availableEnemies.Count > 0);
     }
-    
+
 
     public void SpawnBoss()
     {
     }
 
+    #region Room Enemies
 
+    [Header("Room Enemies")]
+    [field: SerializeField]
+    public int RoomEnemiesCost { get; private set; }
 
+    [field: SerializeField] public int MaxEnemyCost { get; private set; }
+    [field: SerializeField] public int MinEnemyCost { get; private set; }
+    [field: SerializeField] public EntityType[] EnemiesType { get; private set; }
+    public int EnemiesCount { get; private set; }
+
+    #endregion
+
+    #region Room Stuffs
+
+    [Header("Room Parts")]
+    [field: SerializeField]
+    public Type RoomType { get; private set; }
+
+    [field: SerializeField] public Directions[] availableDoors { get; private set; }
+    [SerializeField] private Camera roomCamera;
+
+    [SerializeField] private Transform upDoor, downDoor, leftDoor, rightDoor;
+
+    #endregion
 }

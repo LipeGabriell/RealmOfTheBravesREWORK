@@ -3,7 +3,7 @@ public enum EntityType
     Fire,
     Nature,
     Neutral,
-    Dark,
+    Dark
 }
 /*
 Fire -> Nature -> Dark -> Neutral -> Fire

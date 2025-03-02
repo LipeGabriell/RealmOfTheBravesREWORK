@@ -9,12 +9,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7185623878934248782}
-  - component: {fileID: 8570510039563526319}
   - component: {fileID: 348295202822657289}
   - component: {fileID: 8333732748662498348}
   - component: {fileID: 444378273770322795}
   - component: {fileID: 6860580135385647563}
   - component: {fileID: 3464659120339276840}
+  - component: {fileID: 7536959212186395513}
   m_Layer: 0
   m_Name: Slime
   m_TagString: Enemy
@@ -39,21 +39,6 @@ Transform:
   - {fileID: 2856862154486653479}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8570510039563526319
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 619726529200857725}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e42875fc5f97b3d40a2e56cf0871408d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Target: {fileID: 0}
-  <Type>k__BackingField: 0
-  <CostValue>k__BackingField: 0
 --- !u!114 &348295202822657289
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -160,6 +145,21 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 4
+--- !u!114 &7536959212186395513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 619726529200857725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e42875fc5f97b3d40a2e56cf0871408d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Target: {fileID: 0}
+  <Type>k__BackingField: 0
+  <CostValue>k__BackingField: 2
 --- !u!1 &3158319295440609079
 GameObject:
   m_ObjectHideFlags: 0

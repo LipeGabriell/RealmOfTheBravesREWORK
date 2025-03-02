@@ -2,17 +2,18 @@ using UnityEngine;
 
 public class DatabaseHandler : MonoBehaviour
 {
-    public static DatabaseHandler Instance { get; private set; }
     [field: SerializeField] public DungeonData DungeonData;
     [field: SerializeField] public EntitiesData EntitiesData;
+    public static DatabaseHandler Instance { get; private set; }
 
-    void Awake()
+    private void Awake()
     {
         if (Instance != null)
         {
             Destroy(gameObject);
             return;
         }
+
         Instance = this;
         DontDestroyOnLoad(gameObject);
 
@@ -20,6 +21,5 @@ public class DatabaseHandler : MonoBehaviour
         DungeonData.UpdateDatabase();
         EntitiesData.UpdateDatabase();
 #endif
-
     }
 }
